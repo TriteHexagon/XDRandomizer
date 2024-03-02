@@ -1,0 +1,129 @@
+Entry Name,Miror B weighting,Catch Rate,Level,Shadow ID Is Being Used,Pokemon Index In Story Deck,Heart Guage,Shadow Moves 1,Shadow Moves 2,Shadow Moves 3,Shadow Moves 4,Aggression,Flees When Player Loses
+Shadow Pokemon - 0,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 1,128 (0x80),120,11,true,TEDDIURSA  (28),3000,SHADOW BLITZ (356),SHADOW MIST (369),None (0),None (0),2 (0x2),false
+Shadow Pokemon - 2,128 (0x80),190,18,true,VULPIX  (200),2000,SHADOW WAVE (360),SHADOW HOLD (368),None (0),None (0),4 (0x4),false
+Shadow Pokemon - 3,0 (0x0),255,17,true,SPHEAL  (721),1500,SHADOW WAVE (360),SHADOW MIST (369),None (0),None (0),5 (0x5),false
+Shadow Pokemon - 4,0 (0x0),255,17,true,BALTOY  (722),1500,SHADOW BLITZ (356),SHADOW MIST (369),None (0),None (0),5 (0x5),false
+Shadow Pokemon - 5,0 (0x0),235,17,true,MAREEP  (725),1500,SHADOW BLITZ (356),SHADOW SHED (372),None (0),None (0),5 (0x5),false
+Shadow Pokemon - 6,0 (0x0),225,17,true,GULPIN  (731),1500,SHADOW BLITZ (356),SHADOW HOLD (368),None (0),None (0),5 (0x5),false
+Shadow Pokemon - 7,0 (0x0),255,17,true,SEEDOT  (739),1500,SHADOW WAVE (360),SHADOW HOLD (368),None (0),None (0),4 (0x4),false
+Shadow Pokemon - 8,128 (0x80),255,14,true,SPINARAK  (114),1500,SHADOW BLITZ (356),SHADOW MIST (369),None (0),None (0),5 (0x5),false
+Shadow Pokemon - 9,128 (0x80),255,14,true,NUMEL  (118),1500,SHADOW BLITZ (356),SHADOW SHED (372),None (0),None (0),4 (0x4),false
+Shadow Pokemon - 10,128 (0x80),225,15,true,CARVANHA  (138),1700,SHADOW BLITZ (356),SHADOW HOLD (368),None (0),None (0),3 (0x3),false
+Shadow Pokemon - 11,128 (0x80),150,22,true,ROSELIA  (281),3000,SHADOW WAVE (360),SHADOW SHED (372),None (0),None (0),4 (0x4),false
+Shadow Pokemon - 12,80 (0x50),120,18,true,DELCATTY  (155),2500,SHADOW RUSH (357),SHADOW WAVE (360),None (0),None (0),3 (0x3),false
+Shadow Pokemon - 13,128 (0x80),255,26,true,NOSEPASS  (405),4000,SHADOW WAVE (360),SHADOW MIST (369),None (0),None (0),3 (0x3),false
+Shadow Pokemon - 14,0 (0x0),225,17,true,HOUNDOUR  (715),1500,SHADOW BLITZ (356),SHADOW SHED (372),None (0),None (0),4 (0x4),false
+Shadow Pokemon - 15,128 (0x80),180,18,true,MAKUHITA  (210),2000,SHADOW BLITZ (356),SHADOW SHED (372),None (0),None (0),3 (0x3),false
+Shadow Pokemon - 16,128 (0x80),190,19,true,DUSKULL  (228),2200,SHADOW WAVE (360),SHADOW HOLD (368),None (0),None (0),3 (0x3),false
+Shadow Pokemon - 17,128 (0x80),235,20,true,RALTS  (236),2200,SHADOW WAVE (360),SHADOW HOLD (368),None (0),None (0),2 (0x2),false
+Shadow Pokemon - 18,128 (0x80),120,22,true,MAWILE  (239),2500,SHADOW RUSH (357),SHADOW WAVE (360),None (0),None (0),4 (0x4),true
+Shadow Pokemon - 19,128 (0x80),190,20,true,SNORUNT  (242),2500,SHADOW WAVE (360),SHADOW SHED (372),None (0),None (0),4 (0x4),true
+Shadow Pokemon - 20,128 (0x80),190,20,true,PINECO  (246),2500,SHADOW BLITZ (356),SHADOW SHED (372),None (0),None (0),3 (0x3),true
+Shadow Pokemon - 21,128 (0x80),225,22,true,SWINUB  (275),2500,SHADOW BLITZ (356),SHADOW WAVE (360),None (0),None (0),5 (0x5),false
+Shadow Pokemon - 22,128 (0x80),190,22,true,NATU  (278),2500,SHADOW BLITZ (356),SHADOW SHED (372),None (0),None (0),4 (0x4),false
+Shadow Pokemon - 23,128 (0x80),255,15,true,SHROOMISH  (147),1800,SHADOW BLITZ (356),SHADOW MIST (369),None (0),None (0),4 (0x4),false
+Shadow Pokemon - 24,128 (0x80),255,22,true,MEOWTH  (285),3500,SHADOW RUSH (357),SHADOW HOLD (368),None (0),None (0),3 (0x3),false
+Shadow Pokemon - 25,128 (0x80),255,22,true,SPEAROW  (288),4500,SHADOW BLITZ (356),SHADOW PANIC (370),None (0),None (0),2 (0x2),false
+Shadow Pokemon - 26,128 (0x80),190,23,true,GRIMER  (291),3000,SHADOW BLITZ (356),SHADOW HOLD (368),None (0),None (0),3 (0x3),false
+Shadow Pokemon - 27,128 (0x80),190,23,true,SEEL  (295),3500,SHADOW WAVE (360),SHADOW MIST (369),None (0),None (0),4 (0x4),false
+Shadow Pokemon - 28,70 (0x46),100,25,true,LUNATONE  (298),5000,SHADOW WAVE (360),SHADOW SHED (372),SHADOW SKY (367),None (0),2 (0x2),false
+Shadow Pokemon - 29,128 (0x80),190,19,true,VOLTORB  (191),2500,SHADOW RUSH (357),SHADOW PANIC (370),None (0),None (0),2 (0x2),false
+Shadow Pokemon - 30,128 (0x80),90,28,true,ZANGOOSE  (460),5000,SHADOW RUSH (357),SHADOW MIST (369),None (0),None (0),1 (0x1),false
+Shadow Pokemon - 31,128 (0x80),190,28,true,GROWLITHE  (473),4000,SHADOW BLITZ (356),SHADOW WAVE (360),None (0),None (0),3 (0x3),false
+Shadow Pokemon - 32,128 (0x80),190,28,true,PARAS  (472),4000,SHADOW BLITZ (356),SHADOW SHED (372),None (0),None (0),3 (0x3),false
+Shadow Pokemon - 33,128 (0x80),190,29,true,SHELLDER  (482),4000,SHADOW BLITZ (356),SHADOW SHED (372),None (0),None (0),3 (0x3),false
+Shadow Pokemon - 34,128 (0x80),90,30,true,BEEDRILL  (491),4500,SHADOW BLITZ (356),SHADOW HOLD (368),None (0),None (0),1 (0x1),false
+Shadow Pokemon - 35,128 (0x80),120,30,true,PIDGEOTTO  (494),4000,SHADOW BLITZ (356),SHADOW PANIC (370),None (0),None (0),2 (0x2),false
+Shadow Pokemon - 36,128 (0x80),90,30,true,BUTTERFREE  (508),4000,SHADOW RUSH (357),SHADOW MIST (369),None (0),None (0),4 (0x4),false
+Shadow Pokemon - 37,128 (0x80),90,30,true,TANGELA  (507),4000,SHADOW RAVE (361),SHADOW HOLD (368),None (0),None (0),3 (0x3),false
+Shadow Pokemon - 38,128 (0x80),127,34,true,RATICATE  (564),6000,SHADOW RUSH (357),SHADOW DOWN (371),None (0),None (0),3 (0x3),false
+Shadow Pokemon - 39,128 (0x80),120,32,true,VENOMOTH  (526),4000,SHADOW RUSH (357),SHADOW MIST (369),None (0),None (0),4 (0x4),false
+Shadow Pokemon - 40,128 (0x80),120,32,true,WEEPINBELL  (527),4000,SHADOW RAVE (361),SHADOW HOLD (368),None (0),None (0),5 (0x5),false
+Shadow Pokemon - 41,128 (0x80),90,33,true,ARBOK  (537),5000,SHADOW RUSH (357),SHADOW HALF (373),None (0),None (0),1 (0x1),false
+Shadow Pokemon - 42,60 (0x3C),80,34,true,PRIMEAPE  (542),6000,SHADOW RUSH (357),SHADOW STORM (362),None (0),None (0),1 (0x1),false
+Shadow Pokemon - 43,60 (0x3C),80,34,true,HYPNO  (543),5500,SHADOW STORM (362),SHADOW DOWN (371),None (0),None (0),2 (0x2),false
+Shadow Pokemon - 44,128 (0x80),120,33,true,GOLDUCK  (555),6500,SHADOW RAVE (361),SHADOW MIST (369),None (0),None (0),2 (0x2),false
+Shadow Pokemon - 45,128 (0x80),90,33,true,SABLEYE  (556),7000,SHADOW BLITZ (356),SHADOW HOLD (368),None (0),None (0),2 (0x2),false
+Shadow Pokemon - 46,128 (0x80),110,30,true,MAGNETON  (517),4500,SHADOW RAVE (361),SHADOW HOLD (368),SHADOW SKY (367),None (0),3 (0x3),false
+Shadow Pokemon - 47,128 (0x80),90,34,true,DODRIO  (562),8000,SHADOW BLITZ (356),SHADOW SHED (372),None (0),None (0),1 (0x1),false
+Shadow Pokemon - 48,50 (0x32),80,36,true,FARFETCH'D  (575),5500,SHADOW BREAK (358),SHADOW SKY (367),SHADOW PANIC (370),None (0),4 (0x4),false
+Shadow Pokemon - 49,50 (0x32),80,36,true,ALTARIA  (576),6500,SHADOW BREAK (358),SHADOW MIST (369),SHADOW RAVE (361),None (0),3 (0x3),false
+Shadow Pokemon - 50,128 (0x80),90,35,true,KANGASKHAN  (584),6000,SHADOW RUSH (357),SHADOW MIST (369),None (0),None (0),3 (0x3),false
+Shadow Pokemon - 51,128 (0x80),90,37,true,BANETTE  (585),7000,SHADOW RUSH (357),SHADOW HOLD (368),None (0),None (0),2 (0x2),false
+Shadow Pokemon - 52,128 (0x80),90,36,true,MAGMAR  (593),7000,SHADOW RAVE (361),SHADOW RUSH (357),SHADOW SHED (372),None (0),2 (0x2),false
+Shadow Pokemon - 53,128 (0x80),90,35,true,PINSIR  (594),7000,SHADOW BREAK (358),SHADOW SHED (372),None (0),None (0),2 (0x2),false
+Shadow Pokemon - 54,128 (0x80),120,38,true,MAGCARGO  (625),5500,SHADOW RAVE (361),SHADOW SHED (372),None (0),None (0),4 (0x4),false
+Shadow Pokemon - 55,128 (0x80),110,40,true,RAPIDASH  (624),6000,SHADOW RAVE (361),SHADOW DOWN (371),SHADOW SKY (367),None (0),3 (0x3),false
+Shadow Pokemon - 56,128 (0x80),90,38,true,HITMONCHAN  (634),6000,SHADOW RUSH (357),SHADOW DOWN (371),None (0),None (0),3 (0x3),false
+Shadow Pokemon - 57,128 (0x80),90,38,true,HITMONLEE  (639),7000,SHADOW RUSH (357),SHADOW DOWN (371),SHADOW HALF (373),None (0),2 (0x2),false
+Shadow Pokemon - 58,128 (0x80),90,38,true,LICKITUNG  (652),5000,SHADOW RUSH (357),SHADOW PANIC (370),None (0),None (0),4 (0x4),false
+Shadow Pokemon - 59,128 (0x80),90,40,true,SCYTHER  (655),8000,SHADOW RUSH (357),SHADOW MIST (369),None (0),None (0),1 (0x1),false
+Shadow Pokemon - 60,128 (0x80),70,39,true,CHANSEY  (656),4000,SHADOW RAVE (361),SHADOW HOLD (368),None (0),None (0),5 (0x5),false
+Shadow Pokemon - 61,40 (0x28),90,41,true,SOLROCK  (660),7500,SHADOW RAVE (361),SHADOW PANIC (370),SHADOW SKY (367),None (0),2 (0x2),false
+Shadow Pokemon - 62,40 (0x28),110,41,true,STARMIE  (662),7500,SHADOW STORM (362),SHADOW BREAK (358),SHADOW MIST (369),None (0),2 (0x2),false
+Shadow Pokemon - 63,20 (0x14),90,43,true,ELECTABUZZ  (670),7000,SHADOW BREAK (358),SHADOW MIST (369),SHADOW HALF (373),SHADOW STORM (362),2 (0x2),false
+Shadow Pokemon - 64,20 (0x14),90,43,true,SWELLOW  (666),7000,SHADOW BREAK (358),SHADOW SKY (367),SHADOW HALF (373),SHADOW MIST (369),3 (0x3),false
+Shadow Pokemon - 65,20 (0x14),70,43,true,SNORLAX  (671),9000,SHADOW END (359),SHADOW SHED (372),None (0),None (0),1 (0x1),false
+Shadow Pokemon - 66,30 (0x1E),90,42,true,POLIWRATH  (676),7500,SHADOW STORM (362),SHADOW RUSH (357),SHADOW SKY (367),None (0),2 (0x2),false
+Shadow Pokemon - 67,30 (0x1E),90,42,true,MR. MIME  (677),6500,SHADOW STORM (362),SHADOW SHED (372),None (0),None (0),3 (0x3),false
+Shadow Pokemon - 68,128 (0x80),100,40,true,DUGTRIO  (682),5000,SHADOW BREAK (358),SHADOW SHED (372),SHADOW SKY (367),None (0),4 (0x4),false
+Shadow Pokemon - 69,10 (0xA),80,44,true,MANECTRIC  (684),7000,SHADOW END (359),SHADOW MIST (369),SHADOW SKY (367),None (0),3 (0x3),false
+Shadow Pokemon - 70,10 (0xA),80,50,true,SALAMENCE  (685),9000,SHADOW RUSH (357),SHADOW HOLD (368),None (0),None (0),1 (0x1),false
+Shadow Pokemon - 71,10 (0xA),110,44,true,MAROWAK  (687),6500,SHADOW END (359),SHADOW PANIC (370),None (0),None (0),3 (0x3),false
+Shadow Pokemon - 72,10 (0xA),80,44,true,LAPRAS  (688),6000,SHADOW STORM (362),SHADOW SHED (372),SHADOW SKY (367),None (0),4 (0x4),false
+Shadow Pokemon - 73,0 (0x0),3,50,true,LUGIA  (699),12000,SHADOW BLAST (366),SHADOW SHED (372),SHADOW DOWN (371),SHADOW STORM (362),1 (0x1),false
+Shadow Pokemon - 74,0 (0x0),25,50,true,ZAPDOS  (705),10000,SHADOW BOLT (364),SHADOW SHED (372),SHADOW SKY (367),SHADOW RUSH (357),1 (0x1),false
+Shadow Pokemon - 75,0 (0x0),25,50,true,MOLTRES  (701),10000,SHADOW FIRE (363),SHADOW SHED (372),SHADOW HOLD (368),SHADOW RUSH (357),1 (0x1),false
+Shadow Pokemon - 76,0 (0x0),25,50,true,ARTICUNO  (704),10000,SHADOW CHILL (365),SHADOW SHED (372),SHADOW SKY (367),SHADOW RUSH (357),1 (0x1),false
+Shadow Pokemon - 77,0 (0x0),80,46,true,TAUROS  (703),9000,SHADOW RUSH (357),SHADOW HOLD (368),SHADOW SHED (372),SHADOW SKY (367),1 (0x1),false
+Shadow Pokemon - 78,0 (0x0),100,46,true,RHYDON  (700),7000,SHADOW END (359),SHADOW DOWN (371),SHADOW PANIC (370),SHADOW HOLD (368),3 (0x3),false
+Shadow Pokemon - 79,0 (0x0),80,46,true,EXEGGUTOR  (702),9000,SHADOW STORM (362),SHADOW SHED (372),SHADOW HOLD (368),SHADOW END (359),1 (0x1),false
+Shadow Pokemon - 80,0 (0x0),45,55,true,DRAGONITE  (785),9000,SHADOW RUSH (357),SHADOW DOWN (371),SHADOW SHED (372),SHADOW STORM (362),3 (0x3),false
+Shadow Pokemon - 81,128 (0x80),190,30,true,TOGEPI  (1),4500,SHADOW RAVE (361),SHADOW SHED (372),None (0),None (0),5 (0x5),false
+Shadow Pokemon - 82,0 (0x0),255,10,true,POOCHYENA  (24),2500,SHADOW BLITZ (356),SHADOW HOLD (368),None (0),None (0),2 (0x2),false
+Shadow Pokemon - 83,0 (0x0),255,10,true,LEDYBA  (20),2500,SHADOW BLITZ (356),SHADOW SHED (372),None (0),None (0),2 (0x2),true
+Shadow Pokemon - 84,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 85,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 86,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 87,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 88,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 89,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 90,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 91,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 92,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 93,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 94,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 95,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 96,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 97,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 98,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 99,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 100,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 101,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 102,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 103,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 104,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 105,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 106,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 107,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 108,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 109,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 110,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 111,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 112,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 113,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 114,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 115,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 116,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 117,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 118,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 119,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 120,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 121,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 122,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 123,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 124,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 125,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 126,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false
+Shadow Pokemon - 127,0 (0x0),0,0,false,None  (0),0,None (0),None (0),None (0),None (0),0 (0x0),false

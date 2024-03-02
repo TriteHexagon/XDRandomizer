@@ -1,0 +1,824 @@
+Entry Name,Species,Level,Happiness,Item,AI Role,Is Key Strategic Pokemon,IVs HP,IVs Attack,IVs Defense,IVs Sp.Atk,IVs Sp.Def,IVs Speed,EVs HP,EVs Attack,EVs Defense,EVs Sp.Atk,EVs Sp.Def,EVs Speed,Moves 1,Moves 2,Moves 3,Moves 4,Can Fill Combo A Role 1,Can Fill Combo A Role 2,Can Fill Combo B Role 1,Can Fill Combo B Role 2,Use species second ability,Gender,Nature,Use Random Nature and Gender
+None - 0,None (0),0,0,None (0),"なし"  (0),0,0,0,0,0,0,0,0,0,0,0,0,0,None (0),None (0),None (0),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+TOGEPI - 1,TOGEPI (175),25,0,None (0),"なし"  (0),0,0,0,0,0,0,0,0,0,0,0,0,0,ANCIENTPOWER (246),HELPING HAND (270),TRI ATTACK (161),FOLLOW ME (266),false,false,false,false,false,Male (0),Hasty (11),true
+HOPPIP - 2,HOPPIP (187),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FLASH (148),GIGA DRAIN (202),TACKLE (33),SPLASH (150),false,false,false,false,false,Male (0),Serious (12),false
+LUDICOLO - 3,LUDICOLO (297),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,NATURE POWER (267),ABSORB (71),GROWL (45),ASTONISH (310),false,false,false,false,false,Female (1),Hardy (0),false
+LUDICOLO - 4,LUDICOLO (297),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,NATURE POWER (267),ABSORB (71),GROWL (45),ASTONISH (310),false,false,false,false,false,Female (1),Serious (12),false
+LUDICOLO - 5,LUDICOLO (297),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,NATURE POWER (267),ABSORB (71),GROWL (45),ASTONISH (310),false,false,false,false,false,Male (0),Docile (6),false
+SKIPLOOM - 6,SKIPLOOM (188),30,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MIMIC (102),GIGA DRAIN (202),TACKLE (33),AERIAL ACE (332),false,false,false,false,false,Male (0),Serious (12),false
+LUDICOLO - 7,LUDICOLO (297),30,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,NATURE POWER (267),ABSORB (71),WATER PULSE (352),SECRET POWER (290),false,false,false,false,false,Female (1),Hardy (0),false
+LUDICOLO - 8,LUDICOLO (297),30,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,NATURE POWER (267),SEISMIC TOSS (69),SECRET POWER (290),ASTONISH (310),false,false,false,false,false,Female (1),Serious (12),false
+LUDICOLO - 9,LUDICOLO (297),30,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,NATURE POWER (267),GIGA DRAIN (202),WATER PULSE (352),SECRET POWER (290),false,false,false,false,false,Male (0),Docile (6),false
+JUMPLUFF - 10,JUMPLUFF (189),40,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MIMIC (102),GIGA DRAIN (202),SECRET POWER (290),AERIAL ACE (332),false,false,false,false,false,Male (0),Serious (12),false
+LUDICOLO - 11,LUDICOLO (297),40,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,NATURE POWER (267),GIGA DRAIN (202),SECRET POWER (290),WATER PULSE (352),false,false,false,false,false,Female (1),Hardy (0),false
+LUDICOLO - 12,LUDICOLO (297),40,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,NATURE POWER (267),BRICK BREAK (280),SECRET POWER (290),BODY SLAM (34),false,false,false,false,false,Female (1),Serious (12),false
+LUDICOLO - 13,LUDICOLO (297),40,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,NATURE POWER (267),THUNDERPUNCH (9),SECRET POWER (290),FIRE PUNCH (7),false,false,false,false,false,Male (0),Docile (6),false
+SENTRET - 14,SENTRET (161),5,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DEFENSE CURL (111),SCRATCH (10),None (0),None (0),false,false,false,false,true,Male (0),Hardy (0),false
+ZANGOOSE - 15,ZANGOOSE (380),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BRICK BREAK (280),REFRESH (287),COUNTER (68),CRUSH CLAW (306),false,false,false,false,false,Female (1),Hardy (0),false
+ALAKAZAM - 16,ALAKAZAM (65),44,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYCHIC (94),None (0),None (0),None (0),false,false,false,false,true,Male (0),Quirky (24),false
+WINGULL - 17,WINGULL (309),6,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER GUN (55),GROWL (45),None (0),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+LOTAD - 18,LOTAD (295),6,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GROWL (45),ASTONISH (310),None (0),None (0),false,false,false,false,false,Female (1),Naive (14),false
+TAILLOW - 19,TAILLOW (304),6,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PECK (64),GROWL (45),None (0),None (0),false,false,false,false,false,Female (1),Hardy (0),false
+LEDYBA - 20,LEDYBA (165),11,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYBEAM (60),REFRESH (287),AERIAL ACE (332),SUPERSONIC (48),false,false,false,false,false,Male (0),Hardy (0),false
+WHISMUR - 21,WHISMUR (370),6,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,POUND (1),None (0),None (0),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+MARILL - 22,MARILL (183),6,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TACKLE (33),DEFENSE CURL (111),None (0),None (0),false,false,false,false,false,Male (0),Serious (12),false
+ZUBAT - 23,ZUBAT (41),6,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUPERSONIC (48),LEECH LIFE (141),None (0),None (0),false,false,false,false,false,Female (1),Serious (12),false
+POOCHYENA - 24,POOCHYENA (286),11,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DIG (91),HEAL BELL (215),POISON FANG (305),HOWL (336),false,false,false,false,false,Male (0),Hardy (0),false
+SUNKERN - 25,SUNKERN (191),5,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ABSORB (71),None (0),None (0),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+SWABLU - 26,SWABLU (358),6,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GROWL (45),PECK (64),None (0),None (0),false,false,false,false,false,Female (1),Hardy (0),false
+FEEBAS - 27,FEEBAS (328),6,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TACKLE (33),SPLASH (150),None (0),None (0),false,false,false,false,false,Male (0),Serious (12),false
+TEDDIURSA - 28,TEDDIURSA (216),11,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,RETURN (216),REFRESH (287),LICK (122),METAL CLAW (232),false,false,false,false,false,Female (1),Hardy (0),false
+SUNKERN - 29,SUNKERN (191),6,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ABSORB (71),GROWTH (74),None (0),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+MAGIKARP - 30,MAGIKARP (129),6,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SPLASH (150),None (0),None (0),None (0),false,false,false,false,false,Female (1),Bashful (18),false
+ODDISH - 31,ODDISH (43),7,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ABSORB (71),None (0),None (0),None (0),false,false,false,false,false,Male (0),Docile (6),false
+MACHOP - 32,MACHOP (66),7,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,LOW KICK (67),LEER (43),None (0),None (0),false,false,false,false,false,Female (1),Hardy (0),false
+POOCHYENA - 33,POOCHYENA (286),7,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HOWL (336),TACKLE (33),None (0),None (0),false,false,false,false,false,Male (0),Quirky (24),false
+NINCADA - 34,NINCADA (301),7,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,LEECH LIFE (141),SCRATCH (10),None (0),None (0),false,false,false,false,false,Male (0),Serious (12),false
+AZURILL - 35,AZURILL (350),7,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BUBBLE (145),CHARM (204),None (0),None (0),false,false,false,false,false,Male (0),Docile (6),false
+IGGLYBUFF - 36,IGGLYBUFF (174),7,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,POUND (1),CHARM (204),None (0),None (0),false,false,false,false,false,Female (1),Serious (12),false
+TOGEPI - 37,TOGEPI (175),7,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PECK (64),CHARM (204),None (0),None (0),false,false,false,false,true,Male (0),Quirky (24),false
+TYROGUE - 38,TYROGUE (236),7,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TACKLE (33),None (0),None (0),None (0),false,false,false,false,false,Male (0),Docile (6),false
+GRIMER - 39,GRIMER (88),8,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,POUND (1),HARDEN (106),None (0),None (0),false,false,false,false,false,Male (0),Serious (12),false
+ZUBAT - 40,ZUBAT (41),8,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUPERSONIC (48),LEECH LIFE (141),None (0),None (0),false,false,false,false,false,Male (0),Quirky (24),false
+WURMPLE - 41,WURMPLE (290),6,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,POISON STING (40),STRING SHOT (81),None (0),None (0),false,false,false,false,false,Female (1),Docile (6),false
+SILCOON - 42,SILCOON (291),7,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HARDEN (106),POISON STING (40),None (0),None (0),false,false,false,false,false,Male (0),Serious (12),false
+CASCOON - 43,CASCOON (293),7,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HARDEN (106),POISON STING (40),None (0),None (0),false,false,false,false,false,Male (0),Quirky (24),false
+ZIGZAGOON - 44,ZIGZAGOON (288),8,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TAIL WHIP (39),TACKLE (33),None (0),None (0),false,false,false,false,false,Male (0),Docile (6),false
+NUMEL - 45,NUMEL (339),8,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TACKLE (33),GROWL (45),None (0),None (0),false,false,false,false,false,Male (0),Serious (12),false
+SNUBBULL - 46,SNUBBULL (209),8,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCARY FACE (184),TACKLE (33),None (0),None (0),false,false,false,false,true,Female (1),Docile (6),false
+CORPHISH - 47,CORPHISH (326),8,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HARDEN (106),BUBBLE (145),None (0),None (0),false,false,false,false,false,Male (0),Serious (12),false
+LOTAD - 48,LOTAD (295),8,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ABSORB (71),GROWL (45),None (0),None (0),false,false,false,false,false,Male (0),Quirky (24),false
+CACNEA - 49,CACNEA (344),8,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,POISON STING (40),LEER (43),None (0),None (0),false,false,false,false,false,Female (1),Docile (6),false
+SLUGMA - 50,SLUGMA (218),8,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EMBER (52),None (0),None (0),None (0),false,false,false,false,false,Female (1),Serious (12),false
+HORSEA - 51,HORSEA (116),9,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER GUN (55),LEER (43),None (0),None (0),false,false,false,false,false,Male (0),Serious (12),false
+ABRA - 52,ABRA (63),9,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FIRE PUNCH (7),THUNDERPUNCH (9),ICE PUNCH (8),None (0),false,false,false,false,true,Female (1),Quirky (24),false
+SHROOMISH - 53,SHROOMISH (306),9,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ABSORB (71),TACKLE (33),None (0),None (0),false,false,false,false,false,Male (0),Docile (6),false
+PIKACHU - 54,PIKACHU (25),12,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,THUNDERBOLT (85),None (0),None (0),None (0),false,false,false,false,false,Male (0),Docile (6),false
+MARILL - 55,MARILL (183),10,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BUBBLE (145),CHARM (204),None (0),None (0),false,false,false,false,false,Male (0),Docile (6),false
+JIGGLYPUFF - 56,JIGGLYPUFF (39),10,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,POUND (1),CHARM (204),None (0),None (0),false,false,false,false,false,Female (1),Serious (12),false
+TOGEPI - 57,TOGEPI (175),10,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PECK (64),CHARM (204),None (0),None (0),false,false,false,false,true,Male (0),Quirky (24),false
+WURMPLE - 58,WURMPLE (290),9,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TACKLE (33),STRING SHOT (81),POISON STING (40),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+WINGULL - 59,WINGULL (309),9,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER GUN (55),GROWL (45),None (0),None (0),false,false,false,false,false,Male (0),Docile (6),false
+CORPHISH - 60,CORPHISH (326),9,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BUBBLE (145),HARDEN (106),None (0),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+SWABLU - 61,SWABLU (358),10,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PECK (64),GROWL (45),None (0),None (0),false,false,false,false,false,Female (1),Docile (6),false
+DODUO - 62,DODUO (84),10,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PURSUIT (228),PECK (64),GROWL (45),None (0),false,false,false,false,true,Male (0),Quirky (24),false
+SPOINK - 63,SPOINK (351),10,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYWAVE (149),ODOR SLEUTH (316),None (0),None (0),false,false,false,false,false,Male (0),Docile (6),false
+HOUNDOUR - 64,HOUNDOUR (228),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FAINT ATTACK (185),CHARM (204),EMBER (52),ROAR (46),false,false,false,false,true,Male (0),Hardy (0),false
+SLUGMA - 65,SLUGMA (218),14,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EMBER (52),SMOG (123),None (0),None (0),false,false,false,false,false,Male (0),Docile (6),false
+HORSEA - 66,HORSEA (116),11,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SMOKESCREEN (108),WATER GUN (55),None (0),None (0),false,false,false,false,false,Male (0),Quirky (24),false
+GOLDEEN - 67,GOLDEEN (118),12,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PECK (64),WATER SPORT (346),TAIL WHIP (39),None (0),false,false,false,false,true,Female (1),Serious (12),false
+SPHEAL - 68,SPHEAL (341),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,AURORA BEAM (62),CHARM (204),WATER GUN (55),MUD-SLAP (189),false,false,false,false,false,Male (0),Hardy (0),false
+BALTOY - 69,BALTOY (318),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ROCK TOMB (317),REFRESH (287),MUD-SLAP (189),PSYBEAM (60),false,false,false,false,false,Genderless (2),Hardy (0),false
+HOOTHOOT - 70,HOOTHOOT (163),14,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PECK (64),TACKLE (33),GROWL (45),None (0),false,false,false,false,true,Male (0),Quirky (24),false
+MAREEP - 71,MAREEP (179),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BODY SLAM (34),HEAL BELL (215),THUNDERSHOCK (84),THUNDER WAVE (86),false,false,false,false,false,Male (0),Hardy (0),false
+ELECTRIKE - 72,ELECTRIKE (337),12,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HOWL (336),TACKLE (33),LEER (43),None (0),false,false,false,false,false,Male (0),Quirky (24),false
+CHINCHOU - 73,CHINCHOU (170),11,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUPERSONIC (48),WATER GUN (55),None (0),None (0),false,false,false,false,false,Female (1),Serious (12),false
+KOFFING - 74,KOFFING (109),10,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SMOG (123),TACKLE (33),POISON GAS (139),None (0),false,false,false,false,false,Female (1),Serious (12),false
+GRIMER - 75,GRIMER (88),11,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DISABLE (50),POISON GAS (139),POUND (1),None (0),false,false,false,false,true,Male (0),Docile (6),false
+GULPIN - 76,GULPIN (367),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SHOCK WAVE (351),SING (47),SLUDGE (124),TOXIC (92),false,false,false,false,false,Male (0),Hardy (0),false
+TENTACOOL - 77,TENTACOOL (72),10,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUPERSONIC (48),POISON STING (40),SAFEGUARD (219),None (0),false,false,false,false,true,Female (1),Naive (14),false
+ODDISH - 78,ODDISH (43),9,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SWEET SCENT (230),ABSORB (71),None (0),None (0),false,false,false,false,false,Male (0),Docile (6),false
+CACNEA - 79,CACNEA (344),9,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,POISON STING (40),ABSORB (71),LEER (43),None (0),false,false,false,false,false,Female (1),Quirky (24),false
+SHROOMISH - 80,SHROOMISH (306),9,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ABSORB (71),TACKLE (33),None (0),None (0),false,false,false,false,false,Female (1),Bashful (18),false
+LOTAD - 81,LOTAD (295),8,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ASTONISH (310),GROWL (45),None (0),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+PINECO - 82,PINECO (204),9,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TACKLE (33),None (0),None (0),None (0),false,false,false,false,false,Male (0),Serious (12),false
+SEEDOT - 83,SEEDOT (298),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GIGA DRAIN (202),REFRESH (287),BULLET SEED (331),SECRET POWER (290),false,false,false,false,false,Male (0),Hardy (0),false
+SLUGMA - 84,SLUGMA (218),14,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EMBER (52),SMOG (123),None (0),None (0),false,false,false,false,false,Male (0),Docile (6),false
+NUMEL - 85,NUMEL (339),14,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EMBER (52),TACKLE (33),GROWL (45),None (0),false,false,false,false,false,Female (1),Hardy (0),false
+HORSEA - 86,HORSEA (116),11,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SMOKESCREEN (108),WATER GUN (55),None (0),None (0),false,false,false,false,false,Male (0),Quirky (24),false
+GOLDEEN - 87,GOLDEEN (118),12,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PECK (64),WATER SPORT (346),TAIL WHIP (39),None (0),false,false,false,false,true,Female (1),Serious (12),false
+BELDUM - 88,BELDUM (398),11,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TAKE DOWN (36),None (0),None (0),None (0),false,false,false,false,false,Genderless (2),Hardy (0),false
+HOOTHOOT - 89,HOOTHOOT (163),14,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PECK (64),TACKLE (33),GROWL (45),None (0),false,false,false,false,true,Male (0),Quirky (24),false
+SLAKOTH - 90,SLAKOTH (364),14,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCRATCH (10),YAWN (281),None (0),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+ELECTRIKE - 91,ELECTRIKE (337),12,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HOWL (336),TACKLE (33),LEER (43),None (0),false,false,false,false,false,Male (0),Quirky (24),false
+CHINCHOU - 92,CHINCHOU (170),11,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUPERSONIC (48),WATER GUN (55),None (0),None (0),false,false,false,false,false,Female (1),Serious (12),false
+MAGNEMITE - 93,MAGNEMITE (81),12,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TACKLE (33),THUNDERSHOCK (84),None (0),None (0),false,false,false,false,true,Genderless (2),Hardy (0),false
+KOFFING - 94,KOFFING (109),10,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SMOG (123),TACKLE (33),POISON GAS (139),None (0),false,false,false,false,false,Female (1),Serious (12),false
+GRIMER - 95,GRIMER (88),11,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DISABLE (50),POISON GAS (139),POUND (1),None (0),false,false,false,false,true,Male (0),Docile (6),false
+TENTACOOL - 96,TENTACOOL (72),10,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUPERSONIC (48),POISON STING (40),SAFEGUARD (219),None (0),false,false,false,false,true,Female (1),Hardy (0),false
+ZUBAT - 97,ZUBAT (41),10,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUPERSONIC (48),LEECH LIFE (141),None (0),None (0),false,false,false,false,false,Female (1),Hardy (0),false
+ODDISH - 98,ODDISH (43),9,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SWEET SCENT (230),ABSORB (71),None (0),None (0),false,false,false,false,false,Male (0),Docile (6),false
+CACNEA - 99,CACNEA (344),9,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,POISON STING (40),ABSORB (71),LEER (43),None (0),false,false,false,false,false,Female (1),Quirky (24),false
+SHROOMISH - 100,SHROOMISH (306),9,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ABSORB (71),TACKLE (33),None (0),None (0),false,false,false,false,false,Female (1),Bashful (18),false
+LOTAD - 101,LOTAD (295),8,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ASTONISH (310),GROWL (45),None (0),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+PINECO - 102,PINECO (204),9,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TACKLE (33),None (0),None (0),None (0),false,false,false,false,false,Male (0),Serious (12),false
+DUSKULL - 103,DUSKULL (361),14,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FORESIGHT (193),NIGHT SHADE (101),None (0),None (0),false,false,false,false,false,Male (0),Docile (6),false
+SKITTY - 104,SKITTY (315),14,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TACKLE (33),TAIL WHIP (39),None (0),None (0),false,false,false,false,false,Male (0),Quirky (24),false
+DODUO - 105,DODUO (84),13,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PECK (64),GROWL (45),None (0),None (0),false,false,false,false,false,Female (1),Docile (6),false
+TAILLOW - 106,TAILLOW (304),14,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GROWL (45),QUICK ATTACK (98),None (0),None (0),false,false,false,false,false,Male (0),Quirky (24),false
+CLAMPERL - 107,CLAMPERL (373),13,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,IRON DEFENSE (334),CLAMP (128),WATER GUN (55),None (0),false,false,false,false,false,Male (0),Docile (6),false
+CORPHISH - 108,CORPHISH (326),14,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,LEER (43),VICEGRIP (11),HARDEN (106),BUBBLE (145),false,false,false,false,false,Female (1),Quirky (24),false
+ZUBAT - 109,ZUBAT (41),15,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ASTONISH (310),SUPERSONIC (48),LEECH LIFE (141),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+ANORITH - 110,ANORITH (390),13,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MUD SPORT (300),HARDEN (106),SCRATCH (10),None (0),false,false,false,false,false,Male (0),Quirky (24),false
+LILEEP - 111,LILEEP (388),13,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ACID (51),ASTONISH (310),None (0),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+SWINUB - 112,SWINUB (220),14,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TACKLE (33),ODOR SLEUTH (316),None (0),None (0),false,false,false,false,false,Female (1),Serious (12),false
+SHUPPET - 113,SHUPPET (377),13,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,NIGHT SHADE (101),SCREECH (103),KNOCK OFF (282),None (0),false,false,false,false,false,Male (0),Docile (6),false
+SPINARAK - 114,SPINARAK (167),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DIG (91),REFRESH (287),SIGNAL BEAM (324),NIGHT SHADE (101),false,false,false,false,false,Male (0),Hardy (0),false
+RALTS - 115,RALTS (392),15,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DOUBLE TEAM (104),CONFUSION (93),GROWL (45),REFLECT (115),false,false,false,false,false,Male (0),Docile (6),false
+VOLTORB - 116,VOLTORB (100),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SONICBOOM (49),SCREECH (103),TACKLE (33),CHARGE (268),false,false,false,false,false,Genderless (2),Hardy (0),false
+BAGON - 117,BAGON (395),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,LEER (43),BITE (44),RAGE (99),None (0),false,false,false,false,false,Female (1),Quirky (24),false
+NUMEL - 118,NUMEL (339),17,0,CHARCOAL (215),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TAKE DOWN (36),CHARM (204),DIG (91),EMBER (52),false,false,false,false,false,Male (0),Hardy (0),false
+ABRA - 119,ABRA (63),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,REFLECT (115),THUNDERPUNCH (9),ICE PUNCH (8),None (0),false,false,false,false,true,Male (0),Calm (20),false
+MACHOP - 120,MACHOP (66),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,KARATE CHOP (2),FOCUS ENERGY (116),LEER (43),LOW KICK (67),false,false,false,false,false,Male (0),Quirky (24),false
+FEEBAS - 121,FEEBAS (328),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TACKLE (33),SPLASH (150),LIGHT SCREEN (113),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+MAKUHITA - 122,MAKUHITA (335),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FOCUS ENERGY (116),ARM THRUST (292),SAND-ATTACK (28),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+SNORUNT - 123,SNORUNT (346),14,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),LEER (43),None (0),None (0),false,false,false,false,false,Female (1),Hardy (0),false
+BARBOACH - 124,BARBOACH (323),14,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER GUN (55),WATER SPORT (346),MUD SPORT (300),MUD-SLAP (189),false,false,false,false,false,Male (0),Quirky (24),false
+SPOINK - 125,SPOINK (351),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYBEAM (60),ODOR SLEUTH (316),PSYWAVE (149),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+LOTAD - 126,LOTAD (295),14,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ASTONISH (310),ABSORB (71),GROWL (45),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+STARYU - 127,STARYU (120),14,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,RAPID SPIN (229),WATER GUN (55),HARDEN (106),None (0),false,false,false,false,false,Genderless (2),Docile (6),false
+NATU - 128,NATU (177),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,NIGHT SHADE (101),LEER (43),PECK (64),None (0),false,false,false,false,false,Male (0),Docile (6),false
+NINCADA - 129,NINCADA (301),14,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCRATCH (10),SAND-ATTACK (28),LEECH LIFE (141),None (0),false,false,false,false,false,Male (0),Serious (12),false
+WAILMER - 130,WAILMER (313),15,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GROWL (45),WATER GUN (55),None (0),None (0),false,false,false,false,true,Male (0),Quirky (24),false
+SWABLU - 131,SWABLU (358),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GROWL (45),PECK (64),None (0),None (0),false,false,false,false,false,Female (1),Hardy (0),false
+WYNAUT - 132,WYNAUT (360),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MIRROR COAT (243),COUNTER (68),SAFEGUARD (219),None (0),false,false,false,false,false,Male (0),Serious (12),false
+CORSOLA - 133,CORSOLA (222),15,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BUBBLE (145),HARDEN (106),TACKLE (33),None (0),false,false,false,false,false,Male (0),Quirky (24),false
+DUSTOX - 134,DUSTOX (294),14,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GUST (16),CONFUSION (93),None (0),None (0),false,false,false,false,false,Male (0),Serious (12),false
+WINGULL - 135,WINGULL (309),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GROWL (45),SUPERSONIC (48),WATER GUN (55),None (0),false,false,false,false,false,Female (1),Hardy (0),false
+PINECO - 136,PINECO (204),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TACKLE (33),None (0),None (0),None (0),false,false,false,false,false,Female (1),Hardy (0),false
+QWILFISH - 137,QWILFISH (211),15,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TACKLE (33),HARDEN (106),POISON STING (40),None (0),false,false,false,false,false,Female (1),Docile (6),false
+CARVANHA - 138,CARVANHA (330),18,0,BLACKGLASSES (206),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER PULSE (352),REFRESH (287),SCARY FACE (184),BITE (44),false,false,false,false,false,Male (0),Hardy (0),false
+MAGNEMITE - 139,MAGNEMITE (81),15,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TACKLE (33),THUNDERSHOCK (84),None (0),None (0),false,false,false,false,false,Genderless (2),Docile (6),false
+PSYDUCK - 140,PSYDUCK (54),15,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER SPORT (346),TAIL WHIP (39),SCRATCH (10),None (0),false,false,false,false,false,Female (1),Quirky (24),false
+REMORAID - 141,REMORAID (223),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,LOCK-ON (199),WATER GUN (55),None (0),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+JIGGLYPUFF - 142,JIGGLYPUFF (39),15,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DISABLE (50),POUND (1),DEFENSE CURL (111),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+CHIMECHO - 143,CHIMECHO (411),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,CONFUSION (93),ASTONISH (310),SAFEGUARD (219),WRAP (35),false,false,false,false,false,Male (0),Serious (12),false
+DUNSPARCE - 144,DUNSPARCE (206),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GLARE (137),YAWN (281),DEFENSE CURL (111),RAGE (99),false,false,false,false,false,Male (0),Docile (6),false
+SNUBBULL - 145,SNUBBULL (209),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),CHARM (204),SCARY FACE (184),None (0),false,false,false,false,true,Female (1),Quirky (24),false
+KECLEON - 146,KECLEON (317),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCRATCH (10),BIND (20),ASTONISH (310),None (0),false,false,false,false,false,Female (1),Hardy (0),false
+SHROOMISH - 147,SHROOMISH (306),18,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FALSE SWIPE (206),REFRESH (287),MEGA DRAIN (72),STUN SPORE (78),false,false,false,false,false,Male (0),Hardy (0),false
+MURKROW - 148,MURKROW (198),18,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PURSUIT (228),ASTONISH (310),PECK (64),None (0),false,false,false,false,false,Male (0),Docile (6),false
+RHYHORN - 149,RHYHORN (111),18,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HORN ATTACK (30),MUD-SLAP (189),TAIL WHIP (39),None (0),false,false,false,false,false,Male (0),Serious (12),false
+SLAKOTH - 150,SLAKOTH (364),18,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCRATCH (10),FAINT ATTACK (185),None (0),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+BELDUM - 151,BELDUM (398),18,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TAKE DOWN (36),None (0),None (0),None (0),false,false,false,false,false,Genderless (2),Serious (12),false
+LUVDISC - 152,LUVDISC (325),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER GUN (55),TACKLE (33),CHARM (204),ATTRACT (213),false,false,false,false,false,Female (1),Docile (6),false
+BEAUTIFLY - 153,BEAUTIFLY (292),19,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,THIEF (168),GUST (16),ABSORB (71),ATTRACT (213),false,false,false,false,false,Male (0),Hardy (0),false
+ROSELIA - 154,ROSELIA (363),19,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,LEECH SEED (73),MEGA DRAIN (72),PIN MISSILE (42),POISON STING (40),false,false,false,false,false,Male (0),Quirky (24),false
+DELCATTY - 155,DELCATTY (316),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SECRET POWER (290),SWEET KISS (186),ATTRACT (213),SHOCK WAVE (351),false,false,false,false,false,Male (0),Hardy (0),false
+RALTS - 156,RALTS (392),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GROWL (45),CONFUSION (93),LIGHT SCREEN (113),None (0),false,false,false,false,true,Female (1),Serious (12),false
+SNUBBULL - 157,SNUBBULL (209),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),TACKLE (33),ROAR (46),SCARY FACE (184),false,false,false,false,true,Male (0),Quirky (24),false
+SEEDOT - 158,SEEDOT (298),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BIDE (117),BULLET SEED (331),GROWTH (74),HARDEN (106),false,false,false,false,false,Male (0),Docile (6),false
+HOUNDOUR - 159,HOUNDOUR (228),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),EMBER (52),ROAR (46),LEER (43),false,false,false,false,true,Female (1),Hardy (0),false
+SPOINK - 160,SPOINK (351),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SPLASH (150),ODOR SLEUTH (316),PSYWAVE (149),REFLECT (115),false,false,false,false,false,Male (0),Quirky (24),false
+MAGNEMITE - 161,MAGNEMITE (81),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,THUNDERSHOCK (84),SONICBOOM (49),METAL SOUND (319),TACKLE (33),false,false,false,false,true,Genderless (2),Docile (6),false
+NUMEL - 162,NUMEL (339),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EMBER (52),TACKLE (33),GROWL (45),None (0),false,false,false,false,false,Male (0),Serious (12),false
+SHUPPET - 163,SHUPPET (377),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,NIGHT SHADE (101),SCREECH (103),KNOCK OFF (282),None (0),false,false,false,false,false,Female (1),Hardy (0),false
+LEDYBA - 164,LEDYBA (165),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,COMET PUNCH (4),SUPERSONIC (48),TACKLE (33),LIGHT SCREEN (113),false,false,false,false,true,Female (1),Docile (6),false
+REMORAID - 165,REMORAID (223),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,LOCK-ON (199),WATER GUN (55),None (0),None (0),false,false,false,false,false,Male (0),Quirky (24),false
+TOGEPI - 166,TOGEPI (175),17,130,None (0),"なし"  (0),0,0,0,0,0,0,0,0,0,0,0,0,0,PECK (64),SWEET KISS (186),CHARM (204),None (0),false,false,false,false,true,Female (1),Bashful (18),false
+SLUGMA - 167,SLUGMA (218),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ROCK THROW (88),EMBER (52),SMOG (123),YAWN (281),false,false,false,false,true,Female (1),Hardy (0),false
+NATU - 168,NATU (177),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,LIGHT SCREEN (113),LEER (43),PECK (64),None (0),false,false,false,false,false,Female (1),Bashful (18),false
+ODDISH - 169,ODDISH (43),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ABSORB (71),STUN SPORE (78),SWEET SCENT (230),None (0),false,false,false,false,false,Female (1),Quirky (24),false
+ZIGZAGOON - 170,ZIGZAGOON (288),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ODOR SLEUTH (316),SAND-ATTACK (28),TACKLE (33),TAIL WHIP (39),false,false,false,false,false,Female (1),Hardy (0),false
+WHISMUR - 171,WHISMUR (370),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,UPROAR (253),HOWL (336),ASTONISH (310),None (0),false,false,false,false,false,Male (0),Docile (6),false
+AIPOM - 172,AIPOM (190),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCRATCH (10),ASTONISH (310),SAND-ATTACK (28),TAIL WHIP (39),false,false,false,false,false,Male (0),Bashful (18),false
+DUNSPARCE - 173,DUNSPARCE (206),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ROCK SMASH (249),THIEF (168),DEFENSE CURL (111),RAGE (99),false,false,false,false,false,Female (1),Quirky (24),false
+SWINUB - 174,SWINUB (220),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,POWDER SNOW (181),ODOR SLEUTH (316),TACKLE (33),None (0),false,false,false,false,false,Female (1),Hardy (0),false
+BAGON - 175,BAGON (395),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HEADBUTT (29),LEER (43),BITE (44),RAGE (99),false,false,false,false,false,Female (1),Docile (6),false
+MURKROW - 176,MURKROW (198),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PURSUIT (228),ASTONISH (310),PECK (64),None (0),false,false,false,false,false,Male (0),Bashful (18),false
+CLAMPERL - 177,CLAMPERL (373),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,IRON DEFENSE (334),WHIRLPOOL (250),WATER GUN (55),CLAMP (128),false,false,false,false,false,Female (1),Quirky (24),false
+MACHOP - 178,MACHOP (66),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,KARATE CHOP (2),FOCUS ENERGY (116),LIGHT SCREEN (113),LOW KICK (67),false,false,false,false,false,Male (0),Hardy (0),false
+TENTACOOL - 179,TENTACOOL (72),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,CONSTRICT (132),SUPERSONIC (48),POISON STING (40),None (0),false,false,false,false,true,Male (0),Docile (6),false
+FURRET - 180,FURRET (162),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FURY SWIPES (154),SCRATCH (10),DEFENSE CURL (111),None (0),false,false,false,false,true,Male (0),Hardy (0),false
+HOOTHOOT - 181,HOOTHOOT (163),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TACKLE (33),PECK (64),FORESIGHT (193),GROWL (45),false,false,false,false,false,Female (1),Docile (6),false
+FURRET - 182,FURRET (162),18,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FURY SWIPES (154),SCRATCH (10),DEFENSE CURL (111),None (0),false,false,false,false,true,Male (0),Hardy (0),false
+HOOTHOOT - 183,HOOTHOOT (163),18,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TACKLE (33),PECK (64),FORESIGHT (193),GROWL (45),false,false,false,false,false,Female (1),Docile (6),false
+NINCADA - 184,NINCADA (301),18,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FURY SWIPES (154),SAND-ATTACK (28),LEECH LIFE (141),SCRATCH (10),false,false,false,false,false,Male (0),Hardy (0),false
+SWABLU - 185,SWABLU (358),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PECK (64),ASTONISH (310),GROWL (45),None (0),false,false,false,false,false,Female (1),Hardy (0),false
+FEEBAS - 186,FEEBAS (328),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TACKLE (33),SPLASH (150),None (0),None (0),false,false,false,false,false,Male (0),Serious (12),false
+WINGULL - 187,WINGULL (309),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WING ATTACK (17),SUPERSONIC (48),WATER GUN (55),GROWL (45),false,false,false,false,false,Female (1),Hardy (0),false
+LOMBRE - 188,LOMBRE (296),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,RAIN DANCE (240),MEGA DRAIN (72),WATER GUN (55),ASTONISH (310),false,false,false,false,false,Male (0),Hardy (0),false
+LOMBRE - 189,LOMBRE (296),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,THIEF (168),MEGA DRAIN (72),WATER GUN (55),ASTONISH (310),false,false,false,false,false,Male (0),Bashful (18),false
+LOMBRE - 190,LOMBRE (296),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,RAIN DANCE (240),MEGA DRAIN (72),WATER GUN (55),ASTONISH (310),false,false,false,false,false,Female (1),Serious (12),false
+VOLTORB - 191,VOLTORB (100),22,0,MAGNET (208),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MIRROR COAT (243),REFRESH (287),SPARK (209),SWIFT (129),false,false,false,false,false,Genderless (2),Hardy (0),false
+CARVANHA - 192,CARVANHA (330),18,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),FOCUS ENERGY (116),None (0),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+BARBOACH - 193,BARBOACH (323),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MUD SPORT (300),WATER GUN (55),None (0),None (0),false,false,false,false,false,Female (1),Docile (6),false
+CORPHISH - 194,CORPHISH (326),18,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BUBBLE (145),VICEGRIP (11),None (0),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+ELECTRIKE - 195,ELECTRIKE (337),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,QUICK ATTACK (98),HOWL (336),LEER (43),None (0),false,false,false,false,true,Male (0),Hardy (0),false
+GRIMER - 196,GRIMER (88),18,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SLUDGE (124),POUND (1),HARDEN (106),POUND (1),false,false,false,false,false,Female (1),Bashful (18),false
+SPINARAK - 197,SPINARAK (167),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,NIGHT SHADE (101),CONSTRICT (132),SCARY FACE (184),STRING SHOT (81),false,false,false,false,true,Male (0),Hardy (0),false
+BEAUTIFLY - 198,BEAUTIFLY (292),19,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ABSORB (71),GUST (16),None (0),None (0),false,false,false,false,false,Female (1),Docile (6),false
+DUSTOX - 199,DUSTOX (294),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,CONFUSION (93),GUST (16),None (0),None (0),false,false,false,false,false,Male (0),Bashful (18),false
+VULPIX - 200,VULPIX (37),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HEAT WAVE (257),CHARM (204),EMBER (52),DIG (91),false,false,false,false,false,Male (0),Hardy (0),false
+DODUO - 201,DODUO (84),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FURY ATTACK (31),PURSUIT (228),GROWL (45),PECK (64),false,false,false,false,true,Female (1),Hardy (0),false
+TENTACOOL - 202,TENTACOOL (72),18,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,CONSTRICT (132),SUPERSONIC (48),ACID (51),None (0),false,false,false,false,false,Female (1),Bashful (18),false
+CHIMECHO - 203,CHIMECHO (411),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GROWL (45),CONFUSION (93),ASTONISH (310),SAFEGUARD (219),false,false,false,false,false,Male (0),Quirky (24),false
+QWILFISH - 204,QWILFISH (211),19,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER GUN (55),POISON STING (40),HARDEN (106),None (0),false,false,false,false,false,Female (1),Hardy (0),false
+RHYHORN - 205,RHYHORN (111),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HORN ATTACK (30),STOMP (23),TAIL WHIP (39),None (0),false,false,false,false,false,Male (0),Docile (6),false
+CHINCHOU - 206,CHINCHOU (170),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER GUN (55),THUNDER WAVE (86),SUPERSONIC (48),None (0),false,false,false,false,false,Female (1),Bashful (18),false
+KOFFING - 207,KOFFING (109),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,POISON GAS (139),SMOG (123),TACKLE (33),None (0),false,false,false,false,false,Female (1),Quirky (24),false
+KECLEON - 208,KECLEON (317),19,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYBEAM (60),FURY SWIPES (154),BIND (20),None (0),false,false,false,false,false,Male (0),Docile (6),false
+SURSKIT - 209,SURSKIT (311),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER SPORT (346),SWEET SCENT (230),QUICK ATTACK (98),BUBBLE (145),false,false,false,false,false,Female (1),Bashful (18),false
+MAKUHITA - 210,MAKUHITA (335),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BRICK BREAK (280),REFRESH (287),ARM THRUST (292),ROCK TOMB (317),false,false,false,false,false,Male (0),Hardy (0),false
+GULPIN - 211,GULPIN (367),19,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,YAWN (281),SLUDGE (124),None (0),None (0),false,false,false,false,false,Female (1),Hardy (0),false
+MAREEP - 212,MAREEP (179),18,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TACKLE (33),THUNDERSHOCK (84),LIGHT SCREEN (113),None (0),false,false,false,false,false,Female (1),Docile (6),false
+LUVDISC - 213,LUVDISC (325),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,AGILITY (97),WATER GUN (55),SAFEGUARD (219),TACKLE (33),false,false,false,false,false,Male (0),Quirky (24),false
+BELLOSSOM - 214,BELLOSSOM (182),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MAGICAL LEAF (345),STUN SPORE (78),ABSORB (71),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+ODDISH - 215,ODDISH (43),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,STUN SPORE (78),POISONPOWDER (77),SWEET SCENT (230),ABSORB (71),false,false,false,false,false,Male (0),Docile (6),false
+MACHOP - 216,MACHOP (66),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,KARATE CHOP (2),LOW KICK (67),LEER (43),None (0),false,false,false,false,false,Female (1),Hardy (0),false
+POOCHYENA - 217,POOCHYENA (286),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),SAND-ATTACK (28),HOWL (336),TACKLE (33),false,false,false,false,false,Male (0),Quirky (24),false
+NINCADA - 218,NINCADA (301),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FURY SWIPES (154),SAND-ATTACK (28),LEECH LIFE (141),HARDEN (106),false,false,false,false,false,Male (0),Serious (12),false
+TYROGUE - 219,TYROGUE (236),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TACKLE (33),None (0),None (0),None (0),false,false,false,false,false,Male (0),Docile (6),false
+GRIMER - 220,GRIMER (88),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SLUDGE (124),DISABLE (50),HARDEN (106),POUND (1),false,false,false,false,false,Male (0),Serious (12),false
+ZUBAT - 221,ZUBAT (41),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),ASTONISH (310),SUPERSONIC (48),LEECH LIFE (141),false,false,false,false,false,Male (0),Quirky (24),false
+DUSTOX - 222,DUSTOX (294),16,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,POISON STING (40),STRING SHOT (81),CONFUSION (93),GUST (16),false,false,false,false,false,Female (1),Docile (6),false
+BEAUTIFLY - 223,BEAUTIFLY (292),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,POISON STING (40),GUST (16),ABSORB (71),ABSORB (71),false,false,false,false,false,Male (0),Serious (12),false
+DUSTOX - 224,DUSTOX (294),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PROTECT (182),GUST (16),CONFUSION (93),POISON STING (40),false,false,false,false,false,Male (0),Quirky (24),false
+SNEASEL - 225,SNEASEL (215),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCREECH (103),QUICK ATTACK (98),SCRATCH (10),REFLECT (115),false,false,false,false,false,Male (0),Serious (12),false
+YANMA - 226,YANMA (193),19,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SONICBOOM (49),FORESIGHT (193),QUICK ATTACK (98),None (0),false,false,false,false,false,Female (1),Bashful (18),false
+MISDREAVUS - 227,MISDREAVUS (200),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYWAVE (149),ASTONISH (310),None (0),None (0),false,false,false,false,false,Male (0),Quirky (24),false
+DUSKULL - 228,DUSKULL (361),22,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SHADOW BALL (247),HELPING HAND (270),ASTONISH (310),CONFUSE RAY (109),false,false,false,false,false,Male (0),Hardy (0),false
+FURRET - 229,FURRET (162),19,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DEFENSE CURL (111),FURY SWIPES (154),QUICK ATTACK (98),None (0),false,false,false,false,false,Female (1),Docile (6),false
+ZIGZAGOON - 230,ZIGZAGOON (288),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ODOR SLEUTH (316),SAND-ATTACK (28),HEADBUTT (29),TAIL WHIP (39),false,false,false,false,false,Female (1),Bashful (18),false
+TOGETIC - 231,TOGETIC (176),19,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PECK (64),SWEET KISS (186),CHARM (204),None (0),false,false,false,false,true,Male (0),Quirky (24),false
+DELIBIRD - 232,DELIBIRD (225),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PRESENT (217),QUICK ATTACK (98),ICY WIND (196),None (0),false,false,false,false,false,Female (1),Hardy (0),false
+KADABRA - 233,KADABRA (64),22,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYBEAM (60),DISABLE (50),CONFUSION (93),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+FLAAFFY - 234,FLAAFFY (180),22,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,THUNDER WAVE (86),THUNDERSHOCK (84),GROWL (45),TACKLE (33),false,false,false,false,false,Female (1),Docile (6),false
+VIGOROTH - 235,VIGOROTH (365),21,0,None (0),"サポーター"  (3),0,0,0,0,0,0,0,0,0,0,0,0,0,FURY SWIPES (154),UPROAR (253),FOCUS ENERGY (116),None (0),false,false,false,false,false,Male (0),Bashful (18),false
+RALTS - 236,RALTS (392),23,0,TWISTEDSPOON (214),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SHOCK WAVE (351),SING (47),REFLECT (115),CONFUSION (93),false,false,false,false,false,Male (0),Hardy (0),false
+LOUDRED - 237,LOUDRED (371),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,STOMP (23),UPROAR (253),WATER PULSE (352),SEISMIC TOSS (69),false,false,false,false,false,Male (0),Docile (6),false
+GIRAFARIG - 238,GIRAFARIG (203),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,STOMP (23),ODOR SLEUTH (316),CONFUSION (93),SHOCK WAVE (351),false,false,false,false,false,Female (1),Bashful (18),false
+MAWILE - 239,MAWILE (355),25,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FALSE SWIPE (206),SING (47),VICEGRIP (11),IRON DEFENSE (334),false,false,false,false,false,Male (0),Hardy (0),false
+RAICHU - 240,RAICHU (26),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SHOCK WAVE (351),QUICK ATTACK (98),DIG (91),SEISMIC TOSS (69),false,false,false,false,false,Female (1),Hardy (0),false
+SEVIPER - 241,SEVIPER (379),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCREECH (103),POISON TAIL (342),BITE (44),LICK (122),false,false,false,false,false,Female (1),Docile (6),false
+SNORUNT - 242,SNORUNT (346),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER PULSE (352),SING (47),BITE (44),ICY WIND (196),false,false,false,false,false,Male (0),Hardy (0),false
+GOLBAT - 243,GOLBAT (42),22,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,LEECH LIFE (141),BITE (44),ASTONISH (310),SCREECH (103),false,false,false,false,false,Male (0),Hardy (0),false
+MIGHTYENA - 244,MIGHTYENA (287),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HOWL (336),BITE (44),SAND-ATTACK (28),TACKLE (33),false,false,false,false,false,Male (0),Quirky (24),false
+MURKROW - 245,MURKROW (198),22,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HAZE (114),PURSUIT (228),ASTONISH (310),PECK (64),false,false,false,false,false,Male (0),Docile (6),false
+PINECO - 246,PINECO (204),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PIN MISSILE (42),REFRESH (287),SPIKES (191),COUNTER (68),false,false,false,false,false,Male (0),Hardy (0),false
+ARIADOS - 247,ARIADOS (168),22,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,NIGHT SHADE (101),POISON STING (40),SCARY FACE (184),LEECH LIFE (141),false,false,false,false,false,Female (1),Hardy (0),false
+KIRLIA - 248,KIRLIA (393),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GROWL (45),CONFUSION (93),LIGHT SCREEN (113),None (0),false,false,false,false,true,Female (1),Serious (12),false
+SNUBBULL - 249,SNUBBULL (209),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),TACKLE (33),ROAR (46),SCARY FACE (184),false,false,false,false,true,Male (0),Quirky (24),false
+NUZLEAF - 250,NUZLEAF (299),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BIDE (117),BULLET SEED (331),GROWTH (74),HARDEN (106),false,false,false,false,false,Male (0),Docile (6),false
+HOUNDOUR - 251,HOUNDOUR (228),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),EMBER (52),ROAR (46),LEER (43),false,false,false,false,true,Female (1),Hardy (0),false
+SUDOWOODO - 252,SUDOWOODO (185),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,LOW KICK (67),FLAIL (175),ROCK THROW (88),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+CLAMPERL - 253,CLAMPERL (373),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,IRON DEFENSE (334),WHIRLPOOL (250),WATER GUN (55),CLAMP (128),false,false,false,false,false,Male (0),Docile (6),false
+GOLDEEN - 254,GOLDEEN (118),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HORN ATTACK (30),SUPERSONIC (48),WATER SPORT (346),TAIL WHIP (39),false,false,false,false,false,Male (0),Bashful (18),false
+CARVANHA - 255,CARVANHA (330),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCARY FACE (184),FOCUS ENERGY (116),RAGE (99),BITE (44),false,false,false,false,false,Female (1),Docile (6),false
+KOFFING - 256,KOFFING (109),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SLUDGE (124),TACKLE (33),SMOG (123),None (0),false,false,false,false,false,Female (1),Serious (12),false
+MIGHTYENA - 257,MIGHTYENA (287),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ODOR SLEUTH (316),BITE (44),SAND-ATTACK (28),HOWL (336),false,false,false,false,false,Male (0),Hardy (0),false
+DUSKULL - 258,DUSKULL (361),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TORMENT (259),NIGHT SHADE (101),DISABLE (50),None (0),false,false,false,false,false,Female (1),Docile (6),false
+CORPHISH - 259,CORPHISH (326),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BUBBLEBEAM (61),LEER (43),VICEGRIP (11),HARDEN (106),false,false,false,false,false,Female (1),Serious (12),false
+QWILFISH - 260,QWILFISH (211),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER GUN (55),MINIMIZE (107),HARDEN (106),POISON STING (40),false,false,false,false,false,Male (0),Bashful (18),false
+VOLBEAT - 261,VOLBEAT (386),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,QUICK ATTACK (98),THIEF (168),TACKLE (33),None (0),false,false,false,false,false,Male (0),Docile (6),false
+SPOINK - 262,SPOINK (351),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,REFLECT (115),LIGHT SCREEN (113),ODOR SLEUTH (316),PSYWAVE (149),false,false,false,false,true,Male (0),Serious (12),false
+ILLUMISE - 263,ILLUMISE (387),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,QUICK ATTACK (98),TACKLE (33),CHARM (204),SWEET SCENT (230),false,false,false,false,false,Female (1),Serious (12),false
+SEVIPER - 264,SEVIPER (379),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCREECH (103),POISON TAIL (342),BITE (44),LICK (122),false,false,false,false,false,Male (0),Docile (6),false
+WAILMER - 265,WAILMER (313),22,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WHIRLPOOL (250),ROLLOUT (205),WATER GUN (55),GROWL (45),false,false,false,false,false,Female (1),Bashful (18),false
+SHUPPET - 266,SHUPPET (377),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,CURSE (174),NIGHT SHADE (101),SPITE (180),SHOCK WAVE (351),false,false,false,false,false,Male (0),Docile (6),false
+TEDDIURSA - 267,TEDDIURSA (216),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FAKE TEARS (313),FURY SWIPES (154),DIG (91),LEER (43),false,false,false,false,false,Female (1),Serious (12),false
+CORSOLA - 268,CORSOLA (222),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,REFRESH (287),WATER PULSE (352),DIG (91),LIGHT SCREEN (113),false,false,false,false,true,Male (0),Bashful (18),false
+POOCHYENA - 269,POOCHYENA (286),22,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ROAR (46),SAND-ATTACK (28),BITE (44),None (0),false,false,false,false,false,Male (0),Docile (6),false
+MAGNEMITE - 270,MAGNEMITE (81),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,THUNDERSHOCK (84),SONICBOOM (49),SUPERSONIC (48),None (0),false,false,false,false,false,Genderless (2),Serious (12),false
+STARYU - 271,STARYU (120),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,CAMOUFLAGE (293),WATER GUN (55),RAPID SPIN (229),None (0),false,false,false,false,false,Genderless (2),Hardy (0),false
+ABSOL - 272,ABSOL (376),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),TAUNT (269),QUICK ATTACK (98),None (0),false,false,false,false,false,Male (0),Docile (6),false
+TORKOAL - 273,TORKOAL (321),22,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BODY SLAM (34),FIRE SPIN (83),SMOKESCREEN (108),EMBER (52),false,false,false,false,false,Female (1),Bashful (18),false
+NUZLEAF - 274,NUZLEAF (299),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FAKE OUT (252),DIG (91),GIGA DRAIN (202),TORMENT (259),false,false,false,false,false,Male (0),Hardy (0),false
+SWINUB - 275,SWINUB (220),25,0,NEVERMELTICE (212),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ANCIENTPOWER (246),CHARM (204),MIST (54),MUD SHOT (341),false,false,false,false,false,Male (0),Hardy (0),false
+KIRLIA - 276,KIRLIA (393),22,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GROWL (45),CONFUSION (93),None (0),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+LINOONE - 277,LINOONE (289),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ODOR SLEUTH (316),SAND-ATTACK (28),HEADBUTT (29),TAIL WHIP (39),false,false,false,false,false,Female (1),Hardy (0),false
+NATU - 278,NATU (177),25,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FUTURE SIGHT (248),BATON PASS (226),NIGHT SHADE (101),AERIAL ACE (332),false,false,false,false,false,Male (0),Docile (6),false
+REMORAID - 279,REMORAID (223),22,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER GUN (55),AURORA BEAM (62),SCREECH (103),LOCK-ON (199),false,false,false,false,false,Male (0),Docile (6),false
+GOLBAT - 280,GOLBAT (42),22,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,LEECH LIFE (141),BITE (44),ASTONISH (310),SCREECH (103),false,false,false,false,false,Male (0),Bashful (18),false
+ROSELIA - 281,ROSELIA (363),25,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MAGICAL LEAF (345),SWEET KISS (186),GRASSWHISTLE (320),LEECH SEED (73),false,false,false,false,false,Male (0),Hardy (0),false
+KADABRA - 282,KADABRA (64),22,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYBEAM (60),THUNDERPUNCH (9),DOUBLE TEAM (104),ICE PUNCH (8),false,false,false,false,true,Male (0),Docile (6),false
+SNEASEL - 283,SNEASEL (215),22,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FAINT ATTACK (185),AERIAL ACE (332),DOUBLE TEAM (104),FAKE OUT (252),false,false,false,false,true,Female (1),Hardy (0),false
+MISDREAVUS - 284,MISDREAVUS (200),22,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYBEAM (60),SHOCK WAVE (351),ASTONISH (310),THIEF (168),false,false,false,false,false,Female (1),Bashful (18),false
+MEOWTH - 285,MEOWTH (52),25,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SLASH (163),SING (47),PAY DAY (6),BITE (44),false,false,false,false,false,Male (0),Hardy (0),false
+PELIPPER - 286,PELIPPER (310),23,0,SHARP BEAK (210),"なし"  (0),0,0,0,0,0,0,0,0,0,0,0,0,0,MIST (54),WING ATTACK (17),SUPERSONIC (48),WATER GUN (55),false,false,false,false,false,Male (0),Bashful (18),false
+ELECTRIKE - 287,ELECTRIKE (337),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SPARK (209),QUICK ATTACK (98),HOWL (336),LEER (43),false,false,false,false,true,Female (1),Docile (6),false
+SPEAROW - 288,SPEAROW (21),25,0,SHARP BEAK (210),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FALSE SWIPE (206),BATON PASS (226),LEER (43),AERIAL ACE (332),false,false,false,false,false,Male (0),Hardy (0),false
+CHIMECHO - 289,CHIMECHO (411),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,UPROAR (253),TAKE DOWN (36),CONFUSION (93),ASTONISH (310),false,false,false,false,false,Male (0),Serious (12),false
+STANTLER - 290,STANTLER (234),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TACKLE (33),ASTONISH (310),LEER (43),None (0),false,false,false,false,false,Male (0),Bashful (18),false
+GRIMER - 291,GRIMER (88),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SLUDGE BOMB (188),HELPING HAND (270),SHADOW PUNCH (325),MINIMIZE (107),false,false,false,false,false,Male (0),Hardy (0),false
+HOOTHOOT - 292,HOOTHOOT (163),25,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FORESIGHT (193),GROWL (45),PECK (64),FACADE (263),false,false,false,false,false,Male (0),Docile (6),false
+GRAVELER - 293,GRAVELER (75),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ROCK THROW (88),BRICK BREAK (280),DIG (91),MUD SPORT (300),false,false,false,false,false,Male (0),Bashful (18),false
+GULPIN - 294,GULPIN (367),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,POUND (1),WATER PULSE (352),SLUDGE (124),SHOCK WAVE (351),false,false,false,false,false,Female (1),Bashful (18),false
+SEEL - 295,SEEL (86),27,0,MYSTIC WATER (209),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SURF (57),HELPING HAND (270),SAFEGUARD (219),ICE BEAM (58),false,false,false,false,false,Male (0),Hardy (0),false
+LANTURN - 296,LANTURN (171),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SHOCK WAVE (351),WATER GUN (55),FLAIL (175),FACADE (263),false,false,false,false,true,Female (1),Hardy (0),false
+QUAGSIRE - 297,QUAGSIRE (195),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ICE PUNCH (8),ROCK TOMB (317),SLAM (21),WATER GUN (55),false,false,false,false,false,Male (0),Bashful (18),false
+LUNATONE - 298,LUNATONE (348),28,0,HARD STONE (204),"フリー"  (1),3,0,0,0,0,0,0,0,0,0,0,0,0,PSYCHIC (94),BATON PASS (226),RAIN DANCE (240),ROCK TOMB (317),true,false,false,false,false,Genderless (2),Hardy (0),false
+CASTFORM - 299,CASTFORM (385),27,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WEATHER BALL (311),WATER PULSE (352),SHOCK WAVE (351),ICY WIND (196),false,true,false,false,false,Female (1),Docile (6),false
+METANG - 300,METANG (399),28,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCARY FACE (184),METAL CLAW (232),CONFUSION (93),THUNDERPUNCH (9),false,false,false,false,false,Genderless (2),Quirky (24),false
+HOOTHOOT - 301,HOOTHOOT (163),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,REFLECT (115),HYPNOSIS (95),PECK (64),FORESIGHT (193),false,false,false,false,true,Male (0),Docile (6),false
+SENTRET - 302,SENTRET (161),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HELPING HAND (270),FURY SWIPES (154),QUICK ATTACK (98),DEFENSE CURL (111),false,false,false,false,false,Female (1),Hardy (0),false
+ZUBAT - 303,ZUBAT (41),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WING ATTACK (17),BITE (44),ASTONISH (310),SUPERSONIC (48),false,false,false,false,false,Male (0),Bashful (18),false
+SNEASEL - 304,SNEASEL (215),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FAINT ATTACK (185),SCREECH (103),QUICK ATTACK (98),TAUNT (269),false,false,false,false,true,Male (0),Docile (6),false
+SPOINK - 305,SPOINK (351),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYCH UP (244),PSYBEAM (60),ODOR SLEUTH (316),PSYWAVE (149),false,false,false,false,false,Male (0),Hardy (0),false
+SPINDA - 306,SPINDA (308),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HYPNOSIS (95),PSYBEAM (60),FAINT ATTACK (185),UPROAR (253),false,false,false,false,false,Female (1),Bashful (18),false
+SHUPPET - 307,SHUPPET (377),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,NIGHT SHADE (101),SCREECH (103),KNOCK OFF (282),None (0),false,false,false,false,false,Female (1),Hardy (0),false
+LEDYBA - 308,LEDYBA (165),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,COMET PUNCH (4),SUPERSONIC (48),TACKLE (33),LIGHT SCREEN (113),false,false,false,false,true,Female (1),Docile (6),false
+REMORAID - 309,REMORAID (223),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,LOCK-ON (199),WATER GUN (55),None (0),None (0),false,false,false,false,false,Male (0),Quirky (24),false
+TOGETIC - 310,TOGETIC (176),23,130,None (0),"なし"  (0),0,0,0,0,0,0,0,0,0,0,0,0,0,PECK (64),SWEET KISS (186),CHARM (204),None (0),false,false,false,false,true,Female (1),Bashful (18),false
+SLUGMA - 311,SLUGMA (218),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ROCK THROW (88),EMBER (52),SMOG (123),YAWN (281),false,false,false,false,true,Female (1),Hardy (0),false
+NATU - 312,NATU (177),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PECK (64),LIGHT SCREEN (113),LEER (43),PECK (64),false,false,false,false,false,Female (1),Bashful (18),false
+GLOOM - 313,GLOOM (44),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ABSORB (71),STUN SPORE (78),SWEET SCENT (230),None (0),false,false,false,false,false,Female (1),Quirky (24),false
+LINOONE - 314,LINOONE (289),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MUD SPORT (300),ODOR SLEUTH (316),SAND-ATTACK (28),HEADBUTT (29),false,false,false,false,false,Female (1),Hardy (0),false
+LOUDRED - 315,LOUDRED (371),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUPERSONIC (48),HOWL (336),ASTONISH (310),UPROAR (253),false,false,false,false,false,Male (0),Docile (6),false
+AIPOM - 316,AIPOM (190),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCRATCH (10),ASTONISH (310),SAND-ATTACK (28),TAIL WHIP (39),false,false,false,false,false,Male (0),Bashful (18),false
+DUNSPARCE - 317,DUNSPARCE (206),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ROCK SMASH (249),SPITE (180),DEFENSE CURL (111),RAGE (99),false,false,false,false,false,Female (1),Quirky (24),false
+SWINUB - 318,SWINUB (220),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ENDURE (203),POWDER SNOW (181),ODOR SLEUTH (316),TACKLE (33),false,false,false,false,false,Female (1),Hardy (0),false
+BAGON - 319,BAGON (395),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FOCUS ENERGY (116),HEADBUTT (29),LEER (43),BITE (44),false,false,false,false,false,Female (1),Docile (6),false
+MURKROW - 320,MURKROW (198),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HAZE (114),PURSUIT (228),ASTONISH (310),PECK (64),false,false,false,false,false,Male (0),Bashful (18),false
+CLAMPERL - 321,CLAMPERL (373),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,IRON DEFENSE (334),WHIRLPOOL (250),WATER GUN (55),CLAMP (128),false,false,false,false,false,Female (1),Quirky (24),false
+MACHOP - 322,MACHOP (66),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,KARATE CHOP (2),FOCUS ENERGY (116),LIGHT SCREEN (113),LOW KICK (67),false,false,false,false,false,Male (0),Hardy (0),false
+TENTACOOL - 323,TENTACOOL (72),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,CONSTRICT (132),SUPERSONIC (48),POISON STING (40),None (0),false,false,false,false,true,Male (0),Docile (6),false
+HOUNDOUR - 324,HOUNDOUR (228),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FAINT ATTACK (185),CHARM (204),EMBER (52),ROAR (46),false,false,false,false,true,Male (0),Hardy (0),false
+SLUGMA - 325,SLUGMA (218),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EMBER (52),SMOG (123),ROCK THROW (88),LIGHT SCREEN (113),false,false,false,false,false,Male (0),Docile (6),false
+NUMEL - 326,NUMEL (339),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GROWL (45),EMBER (52),TACKLE (33),None (0),false,false,false,false,false,Female (1),Hardy (0),false
+HORSEA - 327,HORSEA (116),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,LEER (43),SMOKESCREEN (108),WATER GUN (55),None (0),false,false,false,false,false,Male (0),Quirky (24),false
+GOLDEEN - 328,GOLDEEN (118),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PECK (64),TAIL WHIP (39),WATER SPORT (346),None (0),false,false,false,false,true,Female (1),Serious (12),false
+BELDUM - 329,BELDUM (398),19,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TAKE DOWN (36),None (0),None (0),None (0),false,false,false,false,false,Genderless (2),Hardy (0),false
+SPHEAL - 330,SPHEAL (341),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,AURORA BEAM (62),CHARM (204),WATER GUN (55),MUD-SLAP (189),false,false,false,false,false,Male (0),Hardy (0),false
+BALTOY - 331,BALTOY (318),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ROCK TOMB (317),REFRESH (287),MUD-SLAP (189),PSYBEAM (60),false,false,false,false,false,Genderless (2),Hardy (0),false
+NOCTOWL - 332,NOCTOWL (164),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PECK (64),TACKLE (33),GROWL (45),None (0),false,false,false,false,true,Male (0),Quirky (24),false
+VIGOROTH - 333,VIGOROTH (365),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FURY SWIPES (154),SCRATCH (10),YAWN (281),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+MAREEP - 334,MAREEP (179),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BODY SLAM (34),HEAL BELL (215),THUNDERSHOCK (84),THUNDER WAVE (86),false,false,false,false,false,Male (0),Hardy (0),false
+ELECTRIKE - 335,ELECTRIKE (337),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SPARK (209),QUICK ATTACK (98),HOWL (336),LEER (43),false,false,false,false,false,Male (0),Quirky (24),false
+CHINCHOU - 336,CHINCHOU (170),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER GUN (55),FLAIL (175),SUPERSONIC (48),THUNDER WAVE (86),false,false,false,false,false,Female (1),Serious (12),false
+MAGNEMITE - 337,MAGNEMITE (81),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SONICBOOM (49),SUPERSONIC (48),THUNDERSHOCK (84),TACKLE (33),false,false,false,false,true,Genderless (2),Hardy (0),false
+KOFFING - 338,KOFFING (109),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,POISON GAS (139),SMOG (123),TACKLE (33),None (0),false,false,false,false,false,Female (1),Serious (12),false
+GRIMER - 339,GRIMER (88),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MINIMIZE (107),SLUDGE (124),DISABLE (50),HARDEN (106),false,false,false,false,true,Male (0),Docile (6),false
+GULPIN - 340,GULPIN (367),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SHOCK WAVE (351),SING (47),SLUDGE (124),TOXIC (92),false,false,false,false,false,Male (0),Hardy (0),false
+TENTACOOL - 341,TENTACOOL (72),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ACID (51),SAFEGUARD (219),SUPERSONIC (48),POISON STING (40),false,false,false,false,false,Female (1),Hardy (0),false
+ZUBAT - 342,ZUBAT (41),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),ASTONISH (310),SUPERSONIC (48),LEECH LIFE (141),false,false,false,false,false,Female (1),Hardy (0),false
+ODDISH - 343,ODDISH (43),18,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SWEET SCENT (230),ABSORB (71),None (0),None (0),false,false,false,false,false,Male (0),Docile (6),false
+CACNEA - 344,CACNEA (344),18,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SAND-ATTACK (28),LEECH SEED (73),POISON STING (40),ABSORB (71),false,false,false,false,false,Female (1),Quirky (24),false
+SHROOMISH - 345,SHROOMISH (306),19,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MEGA DRAIN (72),LEECH SEED (73),ABSORB (71),TACKLE (33),false,false,false,false,false,Female (1),Hardy (0),false
+LOTAD - 346,LOTAD (295),19,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,NATURE POWER (267),ASTONISH (310),GROWL (45),None (0),false,false,false,false,false,Female (1),Hardy (0),false
+PINECO - 347,PINECO (204),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TAKE DOWN (36),TACKLE (33),None (0),None (0),false,false,false,false,false,Male (0),Docile (6),false
+SEEDOT - 348,SEEDOT (298),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GIGA DRAIN (202),REFRESH (287),BULLET SEED (331),SECRET POWER (290),false,false,false,false,false,Male (0),Hardy (0),false
+SLUGMA - 349,SLUGMA (218),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EMBER (52),SMOG (123),ROCK THROW (88),LIGHT SCREEN (113),false,false,false,false,false,Male (0),Docile (6),false
+NUMEL - 350,NUMEL (339),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GROWL (45),EMBER (52),TACKLE (33),None (0),false,false,false,false,false,Female (1),Hardy (0),false
+HORSEA - 351,HORSEA (116),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,LEER (43),SMOKESCREEN (108),WATER GUN (55),None (0),false,false,false,false,false,Male (0),Quirky (24),false
+GOLDEEN - 352,GOLDEEN (118),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PECK (64),TAIL WHIP (39),WATER SPORT (346),None (0),false,false,false,false,true,Female (1),Serious (12),false
+BELDUM - 353,BELDUM (398),19,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TAKE DOWN (36),None (0),None (0),None (0),false,false,false,false,false,Genderless (2),Hardy (0),false
+NOCTOWL - 354,NOCTOWL (164),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PECK (64),TACKLE (33),GROWL (45),None (0),false,false,false,false,true,Male (0),Quirky (24),false
+VIGOROTH - 355,VIGOROTH (365),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FURY SWIPES (154),SCRATCH (10),YAWN (281),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+ELECTRIKE - 356,ELECTRIKE (337),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SPARK (209),QUICK ATTACK (98),HOWL (336),LEER (43),false,false,false,false,false,Male (0),Quirky (24),false
+CHINCHOU - 357,CHINCHOU (170),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER GUN (55),FLAIL (175),SUPERSONIC (48),THUNDER WAVE (86),false,false,false,false,false,Female (1),Serious (12),false
+MAGNEMITE - 358,MAGNEMITE (81),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SONICBOOM (49),SUPERSONIC (48),THUNDERSHOCK (84),TACKLE (33),false,false,false,false,true,Genderless (2),Hardy (0),false
+KOFFING - 359,KOFFING (109),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,POISON GAS (139),SMOG (123),TACKLE (33),None (0),false,false,false,false,false,Female (1),Serious (12),false
+GRIMER - 360,GRIMER (88),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MINIMIZE (107),SLUDGE (124),DISABLE (50),HARDEN (106),false,false,false,false,true,Male (0),Docile (6),false
+TENTACOOL - 361,TENTACOOL (72),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ACID (51),SAFEGUARD (219),SUPERSONIC (48),POISON STING (40),false,false,false,false,false,Female (1),Hardy (0),false
+ZUBAT - 362,ZUBAT (41),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),ASTONISH (310),SUPERSONIC (48),LEECH LIFE (141),false,false,false,false,false,Female (1),Hardy (0),false
+ODDISH - 363,ODDISH (43),18,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SWEET SCENT (230),ABSORB (71),None (0),None (0),false,false,false,false,false,Male (0),Docile (6),false
+CACNEA - 364,CACNEA (344),18,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SAND-ATTACK (28),LEECH SEED (73),POISON STING (40),ABSORB (71),false,false,false,false,false,Female (1),Quirky (24),false
+SHROOMISH - 365,SHROOMISH (306),19,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MEGA DRAIN (72),LEECH SEED (73),ABSORB (71),TACKLE (33),false,false,false,false,false,Female (1),Hardy (0),false
+LOTAD - 366,LOTAD (295),19,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,NATURE POWER (267),ASTONISH (310),GROWL (45),None (0),false,false,false,false,false,Female (1),Hardy (0),false
+PINECO - 367,PINECO (204),20,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TAKE DOWN (36),TACKLE (33),None (0),None (0),false,false,false,false,false,Male (0),Docile (6),false
+SUNKERN - 368,SUNKERN (191),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,INGRAIN (275),MEGA DRAIN (72),GROWTH (74),ABSORB (71),false,false,false,false,false,Male (0),Hardy (0),false
+GYARADOS - 369,GYARADOS (130),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),THRASH (37),None (0),None (0),false,false,false,false,false,Female (1),Bashful (18),false
+SUNFLORA - 370,SUNFLORA (192),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,INGRAIN (275),RAZOR LEAF (75),SUNNY DAY (241),POUND (1),false,false,false,false,false,Male (0),Hardy (0),false
+GYARADOS - 371,GYARADOS (130),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),THRASH (37),None (0),None (0),false,false,false,false,false,Female (1),Bashful (18),false
+HOPPIP - 372,HOPPIP (187),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,COTTON SPORE (178),LEECH SEED (73),SLEEP POWDER (79),STUN SPORE (78),false,false,false,false,false,Female (1),Docile (6),false
+TROPIUS - 373,TROPIUS (369),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SWEET SCENT (230),STOMP (23),RAZOR LEAF (75),GROWTH (74),false,false,false,false,false,Male (0),Serious (12),false
+KIRLIA - 374,KIRLIA (393),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GROWL (45),CONFUSION (93),LIGHT SCREEN (113),None (0),false,false,false,false,true,Female (1),Serious (12),false
+GRANBULL - 375,GRANBULL (210),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),TACKLE (33),ROAR (46),SCARY FACE (184),false,false,false,false,false,Male (0),Quirky (24),false
+NUZLEAF - 376,NUZLEAF (299),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BIDE (117),BULLET SEED (331),GROWTH (74),HARDEN (106),false,false,false,false,false,Male (0),Docile (6),false
+HOUNDOOM - 377,HOUNDOOM (229),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),EMBER (52),ROAR (46),LEER (43),false,false,false,false,true,Female (1),Hardy (0),false
+SUNFLORA - 378,SUNFLORA (192),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,INGRAIN (275),RAZOR LEAF (75),SUNNY DAY (241),POUND (1),false,false,false,false,false,Male (0),Hardy (0),false
+GYARADOS - 379,GYARADOS (130),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),THRASH (37),None (0),None (0),false,false,false,false,false,Female (1),Bashful (18),false
+HOPPIP - 380,HOPPIP (187),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,COTTON SPORE (178),LEECH SEED (73),SLEEP POWDER (79),STUN SPORE (78),false,false,false,false,false,Female (1),Docile (6),false
+TROPIUS - 381,TROPIUS (369),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SWEET SCENT (230),STOMP (23),RAZOR LEAF (75),GROWTH (74),false,false,false,false,false,Male (0),Serious (12),false
+HUNTAIL - 382,HUNTAIL (374),27,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,CONFUSE RAY (109),WATER PULSE (352),BITE (44),ROCK TOMB (317),false,false,false,false,false,Male (0),Docile (6),false
+CACNEA - 383,CACNEA (344),27,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PIN MISSILE (42),THUNDERPUNCH (9),NEEDLE ARM (302),COUNTER (68),false,false,false,false,false,Female (1),Hardy (0),false
+TEDDIURSA - 384,TEDDIURSA (216),27,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FAINT ATTACK (185),FAKE TEARS (313),AERIAL ACE (332),SLASH (163),false,false,false,false,false,Female (1),Bashful (18),false
+KOFFING - 385,KOFFING (109),27,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SMOKESCREEN (108),SLUDGE (124),SHOCK WAVE (351),PSYBEAM (60),false,false,false,false,false,Female (1),Serious (12),false
+LEDYBA - 386,LEDYBA (165),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,COMET PUNCH (4),SUPERSONIC (48),TACKLE (33),DOUBLE TEAM (104),false,false,false,false,true,Male (0),Hardy (0),false
+SPOINK - 387,SPOINK (351),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYCH UP (244),PSYBEAM (60),ODOR SLEUTH (316),PSYWAVE (149),false,false,false,false,false,Female (1),Bashful (18),false
+BELLOSSOM - 388,BELLOSSOM (182),21,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MAGICAL LEAF (345),STUN SPORE (78),SWEET SCENT (230),ABSORB (71),false,false,false,false,false,Female (1),Quirky (24),false
+SUNFLORA - 389,SUNFLORA (192),22,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,INGRAIN (275),RAZOR LEAF (75),DOUBLE TEAM (104),POUND (1),false,false,false,false,false,Female (1),Hardy (0),false
+FURRET - 390,FURRET (162),22,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HELPING HAND (270),FURY SWIPES (154),QUICK ATTACK (98),DOUBLE TEAM (104),false,false,false,false,false,Female (1),Bashful (18),false
+LINOONE - 391,LINOONE (289),22,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MUD SPORT (300),ODOR SLEUTH (316),DOUBLE TEAM (104),HEADBUTT (29),false,false,false,false,false,Male (0),Quirky (24),false
+KECLEON - 392,KECLEON (317),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DOUBLE TEAM (104),PSYBEAM (60),FURY SWIPES (154),FAINT ATTACK (185),false,false,false,false,false,Female (1),Hardy (0),false
+AZUMARILL - 393,AZUMARILL (184),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BUBBLEBEAM (61),ROLLOUT (205),WATER GUN (55),DOUBLE TEAM (104),false,false,false,false,true,Male (0),Bashful (18),false
+YANMA - 394,YANMA (193),23,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SONICBOOM (49),DOUBLE TEAM (104),QUICK ATTACK (98),FORESIGHT (193),false,false,false,false,false,Male (0),Quirky (24),false
+PLUSLE - 395,PLUSLE (353),24,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DOUBLE TEAM (104),SPARK (209),HELPING HAND (270),QUICK ATTACK (98),false,false,false,false,false,Female (1),Hardy (0),false
+MINUN - 396,MINUN (354),24,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DOUBLE TEAM (104),SPARK (209),HELPING HAND (270),QUICK ATTACK (98),false,false,false,false,false,Female (1),Bashful (18),false
+ABSOL - 397,ABSOL (376),24,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),DOUBLE TEAM (104),QUICK ATTACK (98),TAUNT (269),false,false,false,false,false,Male (0),Quirky (24),false
+CACNEA - 398,CACNEA (344),29,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FAINT ATTACK (185),NEEDLE ARM (302),SUBSTITUTE (164),DOUBLE TEAM (104),false,false,false,false,false,Female (1),Hardy (0),false
+SANDSLASH - 399,SANDSLASH (28),29,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SLASH (163),DIG (91),SANDSTORM (201),DOUBLE TEAM (104),false,false,false,false,false,Male (0),Bashful (18),false
+GLIGAR - 400,GLIGAR (207),29,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DIG (91),SLASH (163),SUBSTITUTE (164),DOUBLE TEAM (104),false,false,false,false,true,Male (0),Quirky (24),false
+NOSEPASS - 401,NOSEPASS (320),29,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ROCK TOMB (317),SHOCK WAVE (351),SANDSTORM (201),DOUBLE TEAM (104),false,false,false,false,true,Male (0),Hardy (0),false
+LOMBRE - 402,LOMBRE (296),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,RAIN DANCE (240),MEGA DRAIN (72),WATER GUN (55),ASTONISH (310),false,false,false,false,false,Male (0),Hardy (0),false
+LOMBRE - 403,LOMBRE (296),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GROWL (45),MEGA DRAIN (72),WATER GUN (55),ASTONISH (310),false,false,false,false,false,Male (0),Bashful (18),false
+LOMBRE - 404,LOMBRE (296),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,RAIN DANCE (240),MEGA DRAIN (72),WATER GUN (55),FIRE PUNCH (7),false,false,false,false,false,Female (1),Serious (12),false
+NOSEPASS - 405,NOSEPASS (320),29,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,THUNDERBOLT (85),HELPING HAND (270),THUNDER WAVE (86),ROCK SLIDE (157),false,false,false,false,false,Male (0),Hardy (0),false
+LUDICOLO - 406,LUDICOLO (297),26,0,None (0),"なし"  (0),0,0,0,0,0,0,0,0,0,0,0,0,0,RAIN DANCE (240),MEGA DRAIN (72),WATER GUN (55),ASTONISH (310),false,false,false,false,false,Female (1),Serious (12),false
+ZIGZAGOON - 407,ZIGZAGOON (288),24,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PIN MISSILE (42),MUD SPORT (300),HEADBUTT (29),SAND-ATTACK (28),false,false,false,false,false,Female (1),Docile (6),false
+ZIGZAGOON - 408,ZIGZAGOON (288),24,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PIN MISSILE (42),DIG (91),HEADBUTT (29),SAND-ATTACK (28),false,false,false,false,false,Female (1),Hardy (0),false
+LINOONE - 409,LINOONE (289),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER PULSE (352),ICY WIND (196),MUD-SLAP (189),HEADBUTT (29),false,false,false,false,false,Male (0),Bashful (18),false
+LINOONE - 410,LINOONE (289),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SHOCK WAVE (351),SWIFT (129),DIG (91),HEADBUTT (29),false,false,false,false,false,Male (0),Serious (12),false
+GRAVELER - 411,GRAVELER (75),25,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MUD SPORT (300),ROCK THROW (88),DEFENSE CURL (111),DIG (91),false,false,false,false,false,Female (1),Docile (6),false
+RHYHORN - 412,RHYHORN (111),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCARY FACE (184),FURY ATTACK (31),STOMP (23),TAIL WHIP (39),false,false,false,false,false,Female (1),Quirky (24),false
+STANTLER - 413,STANTLER (234),28,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,STOMP (23),REFLECT (115),ASTONISH (310),LEER (43),false,false,false,false,false,Male (0),Hardy (0),false
+MISDREAVUS - 414,MISDREAVUS (200),28,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MEAN LOOK (212),PSYWAVE (149),TORMENT (259),AERIAL ACE (332),false,false,false,false,false,Female (1),Docile (6),false
+TROPIUS - 415,TROPIUS (369),27,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WHIRLWIND (18),SWEET SCENT (230),STOMP (23),RAZOR LEAF (75),false,false,false,false,false,Male (0),Docile (6),false
+ARIADOS - 416,ARIADOS (168),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DIG (91),NIGHT SHADE (101),LEECH LIFE (141),SCARY FACE (184),false,false,false,false,false,Female (1),Serious (12),false
+BEAUTIFLY - 417,BEAUTIFLY (292),28,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WHIRLWIND (18),MEGA DRAIN (72),MORNING SUN (234),GUST (16),false,false,false,false,false,Female (1),Serious (12),false
+SNEASEL - 418,SNEASEL (215),28,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FAINT ATTACK (185),SCREECH (103),REFLECT (115),TAUNT (269),false,false,false,false,true,Male (0),Hardy (0),false
+DELIBIRD - 419,DELIBIRD (225),28,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PRESENT (217),ICY WIND (196),THIEF (168),SWAGGER (207),false,false,false,false,false,Female (1),Serious (12),false
+XATU - 420,XATU (178),27,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PECK (64),NIGHT SHADE (101),LEER (43),REFLECT (115),false,false,false,false,false,Female (1),Bashful (18),false
+KECLEON - 421,KECLEON (317),25,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FAINT ATTACK (185),PSYBEAM (60),FURY SWIPES (154),SCREECH (103),false,false,false,false,false,Female (1),Hardy (0),false
+AIPOM - 422,AIPOM (190),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TICKLE (321),TAIL WHIP (39),ASTONISH (310),SCRATCH (10),false,false,false,false,true,Female (1),Quirky (24),false
+VOLBEAT - 423,VOLBEAT (386),25,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SIGNAL BEAM (324),TAIL GLOW (294),WATER PULSE (352),THIEF (168),false,false,false,false,true,Male (0),Quirky (24),false
+YANMA - 424,YANMA (193),25,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,AERIAL ACE (332),SONICBOOM (49),DETECT (197),GIGA DRAIN (202),false,false,false,false,false,Female (1),Serious (12),false
+MURKROW - 425,MURKROW (198),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HAZE (114),PECK (64),TAUNT (269),PURSUIT (228),false,false,false,false,false,Female (1),Docile (6),false
+ODDISH - 426,ODDISH (43),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ACID (51),SWEET SCENT (230),ABSORB (71),CUT (15),false,false,false,false,false,Male (0),Bashful (18),false
+GOLBAT - 427,GOLBAT (42),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,LEECH LIFE (141),BITE (44),TAUNT (269),SCREECH (103),false,false,false,false,false,Female (1),Hardy (0),false
+ABSOL - 428,ABSOL (376),27,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCRATCH (10),BITE (44),RAZOR WIND (13),TAUNT (269),false,false,false,false,false,Female (1),Serious (12),false
+KOFFING - 429,KOFFING (109),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SMOKESCREEN (108),SLUDGE (124),TAUNT (269),THIEF (168),false,false,false,false,false,Female (1),Docile (6),false
+ODDISH - 430,ODDISH (43),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,CUT (15),SWEET SCENT (230),ABSORB (71),ACID (51),false,false,false,false,false,Female (1),Bashful (18),false
+DUSTOX - 431,DUSTOX (294),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,CONFUSION (93),LIGHT SCREEN (113),THIEF (168),GUST (16),false,false,false,false,false,Male (0),Serious (12),false
+QWILFISH - 432,QWILFISH (211),25,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER GUN (55),SHOCK WAVE (351),MINIMIZE (107),POISON STING (40),false,false,false,false,false,Female (1),Quirky (24),false
+REMORAID - 433,REMORAID (223),25,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER GUN (55),AURORA BEAM (62),SWAGGER (207),LOCK-ON (199),false,false,false,false,false,Female (1),Docile (6),false
+OCTILLERY - 434,OCTILLERY (224),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER GUN (55),CONSTRICT (132),PSYBEAM (60),OCTAZOOKA (190),false,false,false,false,false,Female (1),Hardy (0),false
+SANDSLASH - 435,SANDSLASH (28),27,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SLASH (163),POISON STING (40),SAND-ATTACK (28),SAFEGUARD (219),false,false,false,false,false,Male (0),Quirky (24),false
+LOUDRED - 436,LOUDRED (371),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUPERSONIC (48),HOWL (336),TORMENT (259),UPROAR (253),false,false,false,false,false,Female (1),Hardy (0),false
+CRAWDAUNT - 437,CRAWDAUNT (327),32,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TAUNT (269),VICEGRIP (11),ROCK TOMB (317),HARDEN (106),false,false,false,false,true,Male (0),Serious (12),false
+GIRAFARIG - 438,GIRAFARIG (203),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ODOR SLEUTH (316),STOMP (23),CONFUSION (93),LIGHT SCREEN (113),false,false,false,false,true,Female (1),Docile (6),false
+SMEARGLE - 439,SMEARGLE (235),27,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,COUNTER (68),TORMENT (259),MIRROR COAT (243),TAUNT (269),false,false,false,false,false,Male (0),Quirky (24),false
+PELIPPER - 440,PELIPPER (310),25,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MIST (54),WATER PULSE (352),WING ATTACK (17),GROWL (45),false,false,false,false,false,Female (1),Serious (12),false
+MACHOKE - 441,MACHOKE (67),28,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,REVENGE (279),FORESIGHT (193),SEISMIC TOSS (69),LEER (43),false,false,false,false,false,Male (0),Hardy (0),false
+ODDISH - 442,ODDISH (43),27,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,CUT (15),SWEET SCENT (230),ACID (51),ABSORB (71),false,false,false,false,false,Female (1),Bashful (18),false
+CROBAT - 443,CROBAT (169),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCREECH (103),BITE (44),ASTONISH (310),TAUNT (269),false,false,false,false,false,Female (1),Serious (12),false
+TORKOAL - 444,TORKOAL (321),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EMBER (52),FIRE SPIN (83),SMOKESCREEN (108),ROCK SLIDE (157),false,false,false,false,false,Male (0),Serious (12),false
+BELLOSSOM - 445,BELLOSSOM (182),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MAGICAL LEAF (345),SWEET SCENT (230),CUT (15),GIGA DRAIN (202),false,false,false,false,false,Male (0),Quirky (24),false
+GLOOM - 446,GLOOM (44),28,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GIGA DRAIN (202),ACID (51),SWEET SCENT (230),CUT (15),false,false,false,false,false,Male (0),Bashful (18),false
+GLOOM - 447,GLOOM (44),28,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ACID (51),SLEEP POWDER (79),CUT (15),RAZOR LEAF (75),false,false,false,false,false,Female (1),Quirky (24),false
+MANTINE - 448,MANTINE (226),28,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,AERIAL ACE (332),BUBBLEBEAM (61),SUPERSONIC (48),TAKE DOWN (36),false,false,false,false,false,Male (0),Quirky (24),false
+FORRETRESS - 449,FORRETRESS (205),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SPIKES (191),BODY SLAM (34),PIN MISSILE (42),DIG (91),false,false,false,false,false,Male (0),Hardy (0),false
+GRUMPIG - 450,GRUMPIG (352),32,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TAUNT (269),SHOCK WAVE (351),LIGHT SCREEN (113),PSYBEAM (60),false,false,false,false,false,Female (1),Docile (6),false
+ELECTRODE - 451,ELECTRODE (101),30,0,None (0),"サポーター"  (3),0,0,0,0,0,0,0,0,0,0,0,0,0,SONICBOOM (49),SPARK (209),FACADE (263),THIEF (168),false,false,false,false,true,Genderless (2),Docile (6),false
+NUZLEAF - 452,NUZLEAF (299),32,0,None (0),"アタッカー"  (2),0,0,0,0,0,0,0,0,0,0,0,0,0,FAKE OUT (252),FAINT ATTACK (185),AERIAL ACE (332),HYPER BEAM (63),false,false,false,false,true,Male (0),Quirky (24),false
+VILEPLUME - 453,VILEPLUME (45),30,0,None (0),"サポーター"  (3),0,0,0,0,0,0,0,0,0,0,0,0,0,SLEEP POWDER (79),GIGA DRAIN (202),SWEET SCENT (230),HYPER BEAM (63),false,false,false,false,false,Male (0),Quirky (24),false
+WHISCASH - 454,WHISCASH (324),31,0,None (0),"アタッカー"  (2),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER PULSE (352),ROCK TOMB (317),SPARK (209),HYPER BEAM (63),false,false,false,false,false,Male (0),Hardy (0),false
+SKARMORY - 455,SKARMORY (227),32,0,None (0),"アタッカー"  (2),0,0,0,0,0,0,0,0,0,0,0,0,0,STEEL WING (211),SWIFT (129),AERIAL ACE (332),HYPER BEAM (63),false,false,false,false,true,Female (1),Bashful (18),false
+FURRET - 456,FURRET (162),28,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SLAM (21),HELPING HAND (270),FURY SWIPES (154),QUICK ATTACK (98),false,false,false,false,true,Male (0),Hardy (0),false
+NOCTOWL - 457,NOCTOWL (164),28,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,REFLECT (115),HYPNOSIS (95),PECK (64),FORESIGHT (193),false,false,false,false,false,Female (1),Docile (6),false
+NINJASK - 458,NINJASK (302),28,255,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SWORDS DANCE (14),SCREECH (103),AERIAL ACE (332),DOUBLE TEAM (104),false,false,false,false,false,Male (0),Hardy (0),false
+SHEDINJA - 459,SHEDINJA (303),28,255,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SWORDS DANCE (14),SCREECH (103),FURY CUTTER (210),SHADOW BALL (247),false,false,false,false,false,Genderless (2),Hardy (0),false
+ZANGOOSE - 460,ZANGOOSE (380),31,0,SILK SCARF (217),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BRICK BREAK (280),REFRESH (287),COUNTER (68),CRUSH CLAW (306),false,false,false,false,false,Female (1),Hardy (0),false
+DODUO - 461,DODUO (84),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PECK (64),TRI ATTACK (161),PURSUIT (228),None (0),false,false,false,false,false,Female (1),Quirky (24),false
+CARVANHA - 462,CARVANHA (330),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER PULSE (352),BITE (44),RAGE (99),None (0),false,false,false,false,false,Male (0),Docile (6),false
+SEVIPER - 463,SEVIPER (379),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,LICK (122),BITE (44),POISON TAIL (342),None (0),false,false,false,false,false,Female (1),Serious (12),false
+RELICANTH - 464,RELICANTH (381),26,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TACKLE (33),ROCK TOMB (317),WATER GUN (55),None (0),false,false,false,false,false,Female (1),Bashful (18),false
+ODDISH - 465,ODDISH (43),27,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GIGA DRAIN (202),None (0),None (0),None (0),false,false,false,false,false,Female (1),Bashful (18),false
+MINUN - 466,MINUN (354),30,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,CHARM (204),ATTRACT (213),SPARK (209),HELPING HAND (270),false,false,false,false,false,Male (0),Serious (12),false
+BEAUTIFLY - 467,BEAUTIFLY (292),30,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GUST (16),MEGA DRAIN (72),AERIAL ACE (332),SWIFT (129),false,false,false,false,false,Female (1),Quirky (24),false
+LEDIAN - 468,LEDIAN (166),28,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYBEAM (60),GIGA DRAIN (202),LIGHT SCREEN (113),ATTRACT (213),false,false,false,false,true,Male (0),Bashful (18),false
+ILLUMISE - 469,ILLUMISE (387),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ICE PUNCH (8),ATTRACT (213),CHARM (204),WATER PULSE (352),false,false,false,false,false,Female (1),Docile (6),false
+SEVIPER - 470,SEVIPER (379),29,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),POISON TAIL (342),WRAP (35),SNATCH (289),false,false,false,false,false,Male (0),Quirky (24),false
+MURKROW - 471,MURKROW (198),29,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,NIGHT SHADE (101),HAZE (114),PURSUIT (228),ASTONISH (310),false,false,false,false,false,Female (1),Docile (6),false
+PARAS - 472,PARAS (46),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SPORE (147),REFRESH (287),SLASH (163),FALSE SWIPE (206),false,false,false,false,false,Male (0),Hardy (0),false
+GROWLITHE - 473,GROWLITHE (58),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FLAMETHROWER (53),CHARM (204),BITE (44),TAKE DOWN (36),false,false,false,false,false,Male (0),Hardy (0),false
+PLUSLE - 474,PLUSLE (353),30,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FAKE TEARS (313),ATTRACT (213),SPARK (209),HELPING HAND (270),false,false,false,false,false,Female (1),Serious (12),false
+DUSTOX - 475,DUSTOX (294),30,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GUST (16),LIGHT SCREEN (113),ATTRACT (213),CONFUSION (93),false,false,false,false,false,Male (0),Serious (12),false
+XATU - 476,XATU (178),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,LEER (43),NIGHT SHADE (101),AERIAL ACE (332),ATTRACT (213),false,false,false,false,true,Male (0),Docile (6),false
+VOLBEAT - 477,VOLBEAT (386),30,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ATTRACT (213),SIGNAL BEAM (324),TAIL GLOW (294),SHOCK WAVE (351),false,false,false,false,true,Male (0),Hardy (0),false
+CLAMPERL - 478,CLAMPERL (373),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,IRON DEFENSE (334),WHIRLPOOL (250),WATER GUN (55),CLAMP (128),false,false,false,false,false,Male (0),Serious (12),false
+OCTILLERY - 479,OCTILLERY (224),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYBEAM (60),WATER GUN (55),FOCUS ENERGY (116),CONSTRICT (132),false,false,false,false,false,Male (0),Serious (12),false
+LANTURN - 480,LANTURN (171),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SPARK (209),WATER GUN (55),FLAIL (175),BUBBLE (145),false,false,false,false,false,Male (0),Docile (6),false
+RELICANTH - 481,RELICANTH (381),32,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HARDEN (106),YAWN (281),ROCK TOMB (317),WATER GUN (55),false,false,false,false,false,Male (0),Serious (12),false
+SHELLDER - 482,SHELLDER (90),32,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TAKE DOWN (36),REFRESH (287),SURF (57),AURORA BEAM (62),false,false,false,false,false,Male (0),Hardy (0),false
+RHYHORN - 483,RHYHORN (111),29,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HORN ATTACK (30),SCARY FACE (184),DIG (91),STOMP (23),false,false,false,false,false,Female (1),Bashful (18),false
+SWALOT - 484,SWALOT (368),29,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,AMNESIA (133),YAWN (281),SHOCK WAVE (351),SLUDGE (124),false,false,false,false,false,Female (1),Quirky (24),false
+GOLBAT - 485,GOLBAT (42),29,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ASTONISH (310),WING ATTACK (17),STEEL WING (211),BITE (44),false,false,false,false,false,Male (0),Serious (12),false
+SHARPEDO - 486,SHARPEDO (331),30,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,RAGE (99),BITE (44),THIEF (168),FOCUS ENERGY (116),false,false,false,false,false,Male (0),Serious (12),false
+ROSELIA - 487,ROSELIA (363),32,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ABSORB (71),MAGICAL LEAF (345),MEGA DRAIN (72),GROWTH (74),false,false,false,false,true,Female (1),Bashful (18),false
+HOPPIP - 488,HOPPIP (187),32,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUNNY DAY (241),REFLECT (115),MEGA DRAIN (72),AERIAL ACE (332),false,false,false,false,false,Female (1),Docile (6),false
+MASQUERAIN - 489,MASQUERAIN (312),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER SPORT (346),GUST (16),PSYBEAM (60),SWEET SCENT (230),false,false,false,false,false,Male (0),Bashful (18),false
+BELLOSSOM - 490,BELLOSSOM (182),32,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MAGICAL LEAF (345),SWEET SCENT (230),SUBSTITUTE (164),ABSORB (71),false,false,false,false,false,Male (0),Quirky (24),false
+BEEDRILL - 491,BEEDRILL (15),33,0,POISON BARB (211),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SLUDGE BOMB (188),BATON PASS (226),TWINEEDLE (41),SWORDS DANCE (14),false,false,false,false,false,Male (0),Hardy (0),false
+FURRET - 492,FURRET (162),30,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCRATCH (10),FOLLOW ME (266),None (0),None (0),false,false,false,false,true,Male (0),Serious (12),false
+TOGETIC - 493,TOGETIC (176),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BODY SLAM (34),FOLLOW ME (266),None (0),None (0),false,false,false,false,false,Male (0),Bashful (18),false
+PIDGEOTTO - 494,PIDGEOTTO (17),33,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WING ATTACK (17),REFRESH (287),STEEL WING (211),FEATHERDANCE (297),false,false,false,false,false,Male (0),Hardy (0),false
+ABSOL - 495,ABSOL (376),30,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TAUNT (269),BITE (44),SCRATCH (10),SWORDS DANCE (14),false,false,false,false,false,Male (0),Bashful (18),false
+SMEARGLE - 496,SMEARGLE (235),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TAUNT (269),BITE (44),SCRATCH (10),SWORDS DANCE (14),false,false,false,false,false,Female (1),Serious (12),false
+DONPHAN - 497,DONPHAN (232),30,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GROWL (45),FURY ATTACK (31),HORN ATTACK (30),DEFENSE CURL (111),false,false,false,false,false,Male (0),Docile (6),false
+AMPHAROS - 498,AMPHAROS (181),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,THUNDERSHOCK (84),FIRE PUNCH (7),LIGHT SCREEN (113),COTTON SPORE (178),false,false,false,false,false,Male (0),Quirky (24),false
+TENTACRUEL - 499,TENTACRUEL (73),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WRAP (35),BUBBLEBEAM (61),ACID (51),CONSTRICT (132),false,false,false,false,true,Male (0),Docile (6),false
+CHIMECHO - 500,CHIMECHO (411),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SAFEGUARD (219),UPROAR (253),TAKE DOWN (36),CONFUSION (93),false,false,false,false,false,Male (0),Quirky (24),false
+KECLEON - 501,KECLEON (317),30,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUBSTITUTE (164),PSYBEAM (60),SCREECH (103),FAINT ATTACK (185),false,false,false,false,false,Male (0),Bashful (18),false
+NOCTOWL - 502,NOCTOWL (164),30,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,AERIAL ACE (332),REFLECT (115),TAKE DOWN (36),CONFUSION (93),false,false,false,false,true,Female (1),Docile (6),false
+MIGHTYENA - 503,MIGHTYENA (287),29,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ROAR (46),DIG (91),SHADOW BALL (247),BITE (44),false,false,false,false,false,Male (0),Serious (12),false
+NINETALES - 504,NINETALES (38),30,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TAIL WHIP (39),SAFEGUARD (219),QUICK ATTACK (98),EMBER (52),false,false,false,false,false,Female (1),Serious (12),false
+JUMPLUFF - 505,JUMPLUFF (189),30,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUNNY DAY (241),GIGA DRAIN (202),LEECH SEED (73),AERIAL ACE (332),false,false,false,false,false,Male (0),Docile (6),false
+AZUMARILL - 506,AZUMARILL (184),32,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DEFENSE CURL (111),ROLLOUT (205),BUBBLEBEAM (61),TAIL WHIP (39),false,false,false,false,false,Female (1),Hardy (0),false
+TANGELA - 507,TANGELA (114),33,0,MIRACLE SEED (205),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SOLARBEAM (76),MORNING SUN (234),SUNNY DAY (241),INGRAIN (275),false,true,false,false,false,Male (0),Bashful (18),false
+BUTTERFREE - 508,BUTTERFREE (12),33,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYCHIC (94),MORNING SUN (234),SLEEP POWDER (79),AERIAL ACE (332),true,false,false,false,false,Male (0),Quirky (24),false
+ARIADOS - 509,ARIADOS (168),30,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,LEECH LIFE (141),NIGHT SHADE (101),CONSTRICT (132),SCARY FACE (184),false,false,false,false,true,Female (1),Quirky (24),false
+GIRAFARIG - 510,GIRAFARIG (203),29,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,AGILITY (97),STOMP (23),CONFUSION (93),ODOR SLEUTH (316),false,false,false,false,false,Female (1),Bashful (18),false
+VILEPLUME - 511,VILEPLUME (45),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MEGA DRAIN (72),AROMATHERAPY (312),SWEET SCENT (230),ACID (51),false,false,false,false,false,Male (0),Bashful (18),false
+STANTLER - 512,STANTLER (234),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,STOMP (23),SAND-ATTACK (28),CALM MIND (347),SHOCK WAVE (351),false,false,false,false,false,Female (1),Serious (12),false
+GRANBULL - 513,GRANBULL (210),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER PULSE (352),TACKLE (33),BITE (44),BULK UP (339),false,false,false,false,false,Female (1),Serious (12),false
+SHEDINJA - 514,SHEDINJA (303),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCRATCH (10),AERIAL ACE (332),LEECH LIFE (141),DIG (91),false,false,false,false,false,Genderless (2),Bashful (18),false
+WOBBUFFET - 515,WOBBUFFET (202),30,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DESTINY BOND (194),ENCORE (227),MIRROR COAT (243),COUNTER (68),false,false,false,false,false,Male (0),Hardy (0),false
+VIBRAVA - 516,VIBRAVA (333),35,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DRAGONBREATH (225),CRUNCH (242),SAND TOMB (328),FAINT ATTACK (185),false,false,false,false,true,Female (1),Serious (12),false
+MAGNETON - 517,MAGNETON (82),31,0,METAL COAT (199),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DOUBLE-EDGE (38),REFRESH (287),RAIN DANCE (240),THUNDER (87),false,false,false,false,false,Genderless (2),Quirky (24),false
+MACHOKE - 518,MACHOKE (67),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BULK UP (339),REVENGE (279),KARATE CHOP (2),SEISMIC TOSS (69),false,false,false,false,false,Male (0),Bashful (18),false
+GOLEM - 519,GOLEM (76),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ROCK THROW (88),DEFENSE CURL (111),ROLLOUT (205),MUD SPORT (300),false,false,false,false,true,Male (0),Docile (6),false
+FORRETRESS - 520,FORRETRESS (205),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BIDE (117),TAKE DOWN (36),RAPID SPIN (229),COUNTER (68),false,false,false,false,false,Male (0),Serious (12),false
+MANTINE - 521,MANTINE (226),32,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BUBBLE (145),TAKE DOWN (36),BUBBLEBEAM (61),AGILITY (97),false,false,false,false,true,Female (1),Hardy (0),false
+CROBAT - 522,CROBAT (169),31,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WING ATTACK (17),SCREECH (103),BITE (44),AERIAL ACE (332),false,false,false,false,false,Male (0),Hardy (0),false
+GOLDUCK - 523,GOLDUCK (55),33,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCRATCH (10),AERIAL ACE (332),CONFUSION (93),PSYCH UP (244),false,false,false,false,true,Female (1),Bashful (18),false
+HITMONTOP - 524,HITMONTOP (237),33,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BULK UP (339),RAPID SPIN (229),TRIPLE KICK (167),FOCUS ENERGY (116),false,false,false,false,false,Male (0),Quirky (24),false
+HARIYAMA - 525,HARIYAMA (336),34,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BULK UP (339),ARM THRUST (292),VITAL THROW (233),ROCK SLIDE (157),false,false,false,false,true,Male (0),Serious (12),false
+VENOMOTH - 526,VENOMOTH (49),35,0,SILVERPOWDER (188),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SILVER WIND (318),REFRESH (287),SUBSTITUTE (164),PSYCHIC (94),true,false,false,false,false,Male (0),Hardy (0),false
+WEEPINBELL - 527,WEEPINBELL (70),35,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MAGICAL LEAF (345),MORNING SUN (234),SLUDGE BOMB (188),SWEET SCENT (230),false,true,false,false,false,Male (0),Hardy (0),false
+GRUMPIG - 528,GRUMPIG (352),34,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYWAVE (149),PSYBEAM (60),PSYCH UP (244),MAGIC COAT (277),false,false,false,false,false,Female (1),Serious (12),false
+SEADRA - 529,SEADRA (117),34,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TWISTER (239),WATER GUN (55),LEER (43),SMOKESCREEN (108),false,false,false,false,false,Female (1),Quirky (24),false
+CAMERUPT - 530,CAMERUPT (340),35,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ROCK SLIDE (157),FOCUS ENERGY (116),TAKE DOWN (36),EMBER (52),false,false,false,false,false,Female (1),Hardy (0),false
+SEAKING - 531,SEAKING (119),34,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER SPORT (346),FLAIL (175),WATER PULSE (352),HORN ATTACK (30),false,false,false,false,true,Male (0),Docile (6),false
+PILOSWINE - 532,PILOSWINE (221),34,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ICY WIND (196),TAKE DOWN (36),ENDURE (203),DIG (91),false,false,false,false,false,Male (0),Hardy (0),false
+HUNTAIL - 533,HUNTAIL (374),36,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCARY FACE (184),WATER PULSE (352),BITE (44),WHIRLPOOL (250),false,false,false,false,false,Male (0),Docile (6),false
+CACTURNE - 534,CACTURNE (345),35,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PIN MISSILE (42),LEER (43),FAINT ATTACK (185),INGRAIN (275),false,false,false,false,false,Female (1),Hardy (0),false
+WEEZING - 535,WEEZING (110),35,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HAZE (114),SLUDGE (124),SMOKESCREEN (108),SMOG (123),false,false,false,false,false,Female (1),Serious (12),false
+URSARING - 536,URSARING (217),35,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FAINT ATTACK (185),FAKE TEARS (313),AERIAL ACE (332),SCRATCH (10),false,false,false,false,false,Female (1),Bashful (18),false
+ARBOK - 537,ARBOK (24),36,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SLUDGE BOMB (188),REFRESH (287),GLARE (137),BITE (44),false,false,false,false,false,Male (0),Hardy (0),false
+LAIRON - 538,LAIRON (383),36,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EARTHQUAKE (89),IRON TAIL (231),TAKE DOWN (36),PROTECT (182),false,false,false,false,false,Female (1),Bashful (18),false
+SEALEO - 539,SEALEO (342),36,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,AURORA BEAM (62),EARTHQUAKE (89),WATER PULSE (352),BODY SLAM (34),false,false,false,false,false,Female (1),Serious (12),false
+SLOWKING - 540,SLOWKING (199),36,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HEADBUTT (29),EARTHQUAKE (89),CONFUSION (93),WATER PULSE (352),false,false,false,false,true,Female (1),Docile (6),false
+URSARING - 541,URSARING (217),36,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SLASH (163),EARTHQUAKE (89),BRICK BREAK (280),PROTECT (182),false,false,false,false,false,Male (0),Quirky (24),false
+PRIMEAPE - 542,PRIMEAPE (57),37,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,CROSS CHOP (238),HELPING HAND (270),FOCUS ENERGY (116),REVERSAL (179),false,false,false,false,false,Male (0),Hardy (0),false
+HYPNO - 543,HYPNO (97),37,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYCHIC (94),BATON PASS (226),MEDITATE (96),SHADOW BALL (247),false,false,false,false,false,Male (0),Hardy (0),false
+SUNFLORA - 544,SUNFLORA (192),37,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PETAL DANCE (80),SUNNY DAY (241),BULLET SEED (331),INGRAIN (275),false,false,false,false,false,Male (0),Hardy (0),false
+GYARADOS - 545,GYARADOS (130),37,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TWISTER (239),LEER (43),DRAGON RAGE (82),BITE (44),false,false,false,false,false,Female (1),Bashful (18),false
+SKIPLOOM - 546,SKIPLOOM (188),37,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MEGA DRAIN (72),COTTON SPORE (178),LEECH SEED (73),SLEEP POWDER (79),false,false,false,false,false,Female (1),Docile (6),false
+TROPIUS - 547,TROPIUS (369),37,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BODY SLAM (34),MAGICAL LEAF (345),WHIRLWIND (18),SWEET SCENT (230),false,false,false,false,false,Male (0),Serious (12),false
+SUNFLORA - 548,SUNFLORA (192),38,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PETAL DANCE (80),SUNNY DAY (241),BULLET SEED (331),INGRAIN (275),false,false,false,false,false,Male (0),Hardy (0),false
+GYARADOS - 549,GYARADOS (130),38,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TWISTER (239),LEER (43),DRAGON RAGE (82),BITE (44),false,false,false,false,false,Female (1),Bashful (18),false
+SKIPLOOM - 550,SKIPLOOM (188),38,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MEGA DRAIN (72),COTTON SPORE (178),LEECH SEED (73),SLEEP POWDER (79),false,false,false,false,false,Female (1),Docile (6),false
+TROPIUS - 551,TROPIUS (369),38,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BODY SLAM (34),MAGICAL LEAF (345),WHIRLWIND (18),SWEET SCENT (230),false,false,false,false,false,Male (0),Serious (12),false
+CRAWDAUNT - 552,CRAWDAUNT (327),33,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BUBBLEBEAM (61),LEER (43),VICEGRIP (11),TAUNT (269),false,false,false,false,false,Male (0),Quirky (24),false
+PELIPPER - 553,PELIPPER (310),33,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WING ATTACK (17),AERIAL ACE (332),WATER GUN (55),RAIN DANCE (240),false,false,false,false,false,Female (1),Docile (6),false
+MANTINE - 554,MANTINE (226),33,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TAKE DOWN (36),BUBBLEBEAM (61),AERIAL ACE (332),AGILITY (97),false,false,false,false,false,Female (1),Bashful (18),false
+GOLDUCK - 555,GOLDUCK (55),36,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATERFALL (127),CHARM (204),PSYCH UP (244),BRICK BREAK (280),true,false,false,false,false,Male (0),Hardy (0),false
+SABLEYE - 556,SABLEYE (322),36,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SHADOW BALL (247),HELPING HAND (270),FAINT ATTACK (185),RECOVER (105),false,true,false,false,false,Male (0),Hardy (0),false
+MASQUERAIN - 557,MASQUERAIN (312),33,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCARY FACE (184),GUST (16),WATER SPORT (346),SWEET SCENT (230),false,false,false,false,false,Male (0),Quirky (24),false
+DUNSPARCE - 558,DUNSPARCE (206),33,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SECRET POWER (290),SCREECH (103),YAWN (281),DREAM EATER (138),false,false,false,false,false,Male (0),Hardy (0),false
+ROSELIA - 559,ROSELIA (363),33,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MEGA DRAIN (72),GRASSWHISTLE (320),MAGICAL LEAF (345),SWEET SCENT (230),false,false,false,false,true,Male (0),Docile (6),false
+SPINDA - 560,SPINDA (308),33,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,UPROAR (253),HYPNOSIS (95),DREAM EATER (138),FAINT ATTACK (185),false,false,false,false,false,Female (1),Serious (12),false
+XATU - 561,XATU (178),34,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,AERIAL ACE (332),LIGHT SCREEN (113),WISH (273),NIGHT SHADE (101),false,false,false,false,false,Female (1),Bashful (18),false
+DODRIO - 562,DODRIO (85),37,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DRILL PECK (65),BATON PASS (226),AGILITY (97),TRI ATTACK (161),false,false,false,false,false,Male (0),Docile (6),false
+WHISCASH - 563,WHISCASH (324),33,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SURF (57),SLEEP TALK (214),SNORE (173),REST (156),false,false,false,false,false,Male (0),Bashful (18),false
+RATICATE - 564,RATICATE (20),37,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUPER FANG (162),REFRESH (287),SCARY FACE (184),HYPER FANG (158),false,false,false,false,false,Male (0),Hardy (0),false
+ARON - 565,ARON (382),34,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,IRON TAIL (231),TAKE DOWN (36),ROAR (46),IRON DEFENSE (334),false,false,false,false,false,Male (0),Serious (12),false
+CORSOLA - 566,CORSOLA (222),34,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BUBBLEBEAM (61),SPIKE CANNON (131),REFLECT (115),REFRESH (287),false,false,false,false,false,Female (1),Bashful (18),false
+PUPITAR - 567,PUPITAR (247),37,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,THRASH (37),ROCK SLIDE (157),SCREECH (103),SANDSTORM (201),false,false,false,false,false,Female (1),Hardy (0),false
+SNEASEL - 568,SNEASEL (215),34,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FAINT ATTACK (185),TAUNT (269),SCRATCH (10),SCREECH (103),false,false,false,false,false,Male (0),Quirky (24),false
+GIRAFARIG - 569,GIRAFARIG (203),33,0,None (0),"サポーター"  (3),0,0,0,0,0,0,0,0,0,0,0,0,0,LIGHT SCREEN (113),CONFUSION (93),STOMP (23),ODOR SLEUTH (316),false,false,false,false,true,Female (1),Serious (12),false
+GOLBAT - 570,GOLBAT (42),33,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WING ATTACK (17),BITE (44),SCREECH (103),ASTONISH (310),false,false,false,false,false,Female (1),Bashful (18),false
+SEAKING - 571,SEAKING (119),34,0,None (0),"サポーター"  (3),0,0,0,0,0,0,0,0,0,0,0,0,0,FLAIL (175),WATER PULSE (352),TAIL WHIP (39),PECK (64),false,false,false,false,false,Female (1),Hardy (0),false
+GARDEVOIR - 572,GARDEVOIR (394),36,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,THUNDERPUNCH (9),PSYCHIC (94),ICE PUNCH (8),ATTRACT (213),false,false,false,false,false,Male (0),Serious (12),false
+GOREBYSS - 573,GOREBYSS (375),36,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER PULSE (352),ICE BEAM (58),ATTRACT (213),CONFUSION (93),false,false,false,false,false,Female (1),Hardy (0),false
+ROSELIA - 574,ROSELIA (363),37,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,LEECH SEED (73),MAGICAL LEAF (345),ATTRACT (213),PIN MISSILE (42),false,false,false,false,false,Male (0),Quirky (24),false
+FARFETCH'D - 575,FARFETCH'D (83),39,0,STICK (225),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SLASH (163),BATON PASS (226),SWORDS DANCE (14),AERIAL ACE (332),false,true,false,false,false,Female (1),Quirky (24),false
+ALTARIA - 576,ALTARIA (359),39,0,DRAGON FANG (216),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DRAGONBREATH (225),HEAL BELL (215),SOLARBEAM (76),AERIAL ACE (332),true,false,false,false,false,Female (1),Docile (6),false
+CROBAT - 577,CROBAT (169),35,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,AIR CUTTER (314),CONFUSE RAY (109),WING ATTACK (17),BITE (44),false,false,false,false,false,Male (0),Bashful (18),false
+SEVIPER - 578,SEVIPER (379),35,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,POISON FANG (305),CRUNCH (242),WRAP (35),BITE (44),false,false,false,false,false,Male (0),Quirky (24),false
+CHIMECHO - 579,CHIMECHO (411),34,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYCHIC (94),GROWL (45),LIGHT SCREEN (113),UPROAR (253),false,false,false,false,false,Female (1),Bashful (18),false
+MASQUERAIN - 580,MASQUERAIN (312),34,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCARY FACE (184),PSYBEAM (60),SWEET SCENT (230),AERIAL ACE (332),false,false,false,false,false,Male (0),Quirky (24),false
+ELECTRODE - 581,ELECTRODE (101),34,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,THUNDERBOLT (85),LIGHT SCREEN (113),CHARGE (268),FACADE (263),false,false,false,false,false,Genderless (2),Hardy (0),false
+MISDREAVUS - 582,MISDREAVUS (200),34,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYBEAM (60),MEAN LOOK (212),PSYCH UP (244),SHADOW BALL (247),false,false,false,false,false,Female (1),Bashful (18),false
+CLAYDOL - 583,CLAYDOL (319),36,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SANDSTORM (201),PSYCHIC (94),ANCIENTPOWER (246),DIG (91),false,false,false,false,false,Genderless (2),Serious (12),false
+KANGASKHAN - 584,KANGASKHAN (115),38,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EARTHQUAKE (89),SING (47),TAIL WHIP (39),DIZZY PUNCH (146),true,false,false,false,false,Female (1),Docile (6),false
+BANETTE - 585,BANETTE (378),39,0,SPELL TAG (213),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FAINT ATTACK (185),HELPING HAND (270),SHADOW BALL (247),CURSE (174),false,true,false,false,false,Male (0),Quirky (24),false
+ABSOL - 586,ABSOL (376),35,0,None (0),"サポーター"  (3),0,0,0,0,0,0,0,0,0,0,0,0,0,SLASH (163),SWORDS DANCE (14),IRON TAIL (231),SHADOW BALL (247),false,false,false,false,false,Male (0),Bashful (18),false
+NINJASK - 587,NINJASK (302),34,0,None (0),"サポーター"  (3),0,0,0,0,0,0,0,0,0,0,0,0,0,SLASH (163),SWORDS DANCE (14),SILVER WIND (318),AERIAL ACE (332),false,false,false,false,false,Female (1),Docile (6),false
+SANDSLASH - 588,SANDSLASH (28),37,0,None (0),"サポーター"  (3),0,0,0,0,0,0,0,0,0,0,0,0,0,SLASH (163),AERIAL ACE (332),SAFEGUARD (219),SWORDS DANCE (14),false,false,false,false,false,Female (1),Serious (12),false
+MAWILE - 589,MAWILE (355),35,0,None (0),"サポーター"  (3),0,0,0,0,0,0,0,0,0,0,0,0,0,BRICK BREAK (280),SLUDGE BOMB (188),SWORDS DANCE (14),FACADE (263),false,false,false,false,false,Female (1),Serious (12),false
+HOUNDOOM - 590,HOUNDOOM (229),37,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUNNY DAY (241),FLAMETHROWER (53),BITE (44),HOWL (336),false,false,false,false,true,Male (0),Bashful (18),false
+NINETALES - 591,NINETALES (38),37,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUNNY DAY (241),FLAMETHROWER (53),DIG (91),CONFUSE RAY (109),false,false,false,false,false,Male (0),Bashful (18),false
+VILEPLUME - 592,VILEPLUME (45),34,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ACID (51),INGRAIN (275),AROMATHERAPY (312),GIGA DRAIN (202),false,false,false,false,false,Female (1),Hardy (0),false
+MAGMAR - 593,MAGMAR (126),39,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FIRE BLAST (126),FOLLOW ME (266),CROSS CHOP (238),THUNDERPUNCH (9),true,false,false,false,false,Male (0),Quirky (24),false
+PINSIR - 594,PINSIR (127),38,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GUILLOTINE (12),HELPING HAND (270),FALSE SWIPE (206),SUBMISSION (66),false,true,false,false,false,Male (0),Docile (6),false
+MIGHTYENA - 595,MIGHTYENA (287),35,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SAND-ATTACK (28),SHADOW BALL (247),HOWL (336),BITE (44),false,false,false,false,false,Male (0),Hardy (0),false
+STANTLER - 596,STANTLER (234),34,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SAND-ATTACK (28),STOMP (23),REFLECT (115),SHADOW BALL (247),false,false,false,false,false,Male (0),Quirky (24),false
+ZANGOOSE - 597,ZANGOOSE (380),37,0,None (0),"サポーター"  (3),0,0,0,0,0,0,0,0,0,0,0,0,0,SLASH (163),CRUSH CLAW (306),LEER (43),TAUNT (269),false,false,false,false,false,Female (1),Bashful (18),false
+SHARPEDO - 598,SHARPEDO (331),35,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCREECH (103),SLASH (163),CRUNCH (242),TAUNT (269),false,false,false,false,false,Male (0),Hardy (0),false
+SUNFLORA - 599,SUNFLORA (192),34,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUNNY DAY (241),BULLET SEED (331),INGRAIN (275),RAZOR LEAF (75),false,false,false,false,false,Male (0),Docile (6),false
+DUSTOX - 600,DUSTOX (294),35,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SILVER WIND (318),LIGHT SCREEN (113),WHIRLWIND (18),PSYBEAM (60),false,false,false,false,false,Male (0),Docile (6),false
+BEAUTIFLY - 601,BEAUTIFLY (292),36,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SILVER WIND (318),ATTRACT (213),WHIRLWIND (18),MEGA DRAIN (72),false,false,false,false,false,Male (0),Quirky (24),false
+SUNFLORA - 602,SUNFLORA (192),34,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUNNY DAY (241),BULLET SEED (331),INGRAIN (275),RAZOR LEAF (75),false,false,false,false,false,Male (0),Docile (6),false
+ILLUMISE - 603,ILLUMISE (387),36,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HELPING HAND (270),FLATTER (260),SILVER WIND (318),WISH (273),false,false,false,false,false,Female (1),Docile (6),false
+VOLBEAT - 604,VOLBEAT (386),36,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HELPING HAND (270),PROTECT (182),SIGNAL BEAM (324),TAIL GLOW (294),false,false,false,false,true,Male (0),Docile (6),false
+WEEZING - 605,WEEZING (110),35,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HAZE (114),SMOKESCREEN (108),SLUDGE (124),SMOG (123),false,false,false,false,false,Male (0),Docile (6),false
+FORRETRESS - 606,FORRETRESS (205),35,0,None (0),"サポーター"  (3),0,0,0,0,0,0,0,0,0,0,0,0,0,BIDE (117),RAPID SPIN (229),TAKE DOWN (36),SPIKES (191),false,false,false,false,false,Female (1),Quirky (24),false
+WOBBUFFET - 607,WOBBUFFET (202),36,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DESTINY BOND (194),SAFEGUARD (219),MIRROR COAT (243),COUNTER (68),false,false,false,false,false,Male (0),Bashful (18),false
+DODRIO - 608,DODRIO (85),37,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TRI ATTACK (161),UPROAR (253),RAGE (99),AERIAL ACE (332),false,false,false,false,true,Female (1),Hardy (0),false
+SKARMORY - 609,SKARMORY (227),34,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,STEEL WING (211),AIR CUTTER (314),FURY ATTACK (31),AGILITY (97),false,false,false,false,false,Male (0),Bashful (18),false
+AZUMARILL - 610,AZUMARILL (184),34,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BUBBLEBEAM (61),ROLLOUT (205),LIGHT SCREEN (113),DOUBLE-EDGE (38),false,false,false,false,true,Female (1),Bashful (18),false
+PELIPPER - 611,PELIPPER (310),36,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SWALLOW (256),STOCKPILE (254),SURF (57),SHOCK WAVE (351),false,false,false,false,false,Female (1),Serious (12),false
+ARIADOS - 612,ARIADOS (168),35,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,NIGHT SHADE (101),SLUDGE BOMB (188),SCARY FACE (184),DIG (91),false,false,false,false,false,Female (1),Docile (6),false
+OCTILLERY - 613,OCTILLERY (224),36,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYBEAM (60),AURORA BEAM (62),OCTAZOOKA (190),BUBBLEBEAM (61),false,false,false,false,false,Male (0),Hardy (0),false
+QWILFISH - 614,QWILFISH (211),36,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PIN MISSILE (42),WATER PULSE (352),MINIMIZE (107),TAKE DOWN (36),false,false,false,false,false,Female (1),Docile (6),false
+DELIBIRD - 615,DELIBIRD (225),36,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PRESENT (217),FUTURE SIGHT (248),ICE BEAM (58),AERIAL ACE (332),false,false,false,false,true,Male (0),Serious (12),false
+GRUMPIG - 616,GRUMPIG (352),36,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FIRE PUNCH (7),MAGIC COAT (277),PSYCHIC (94),ODOR SLEUTH (316),false,false,false,false,false,Female (1),Quirky (24),false
+SWALOT - 617,SWALOT (368),35,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SLUDGE (124),BODY SLAM (34),SWALLOW (256),SPIT UP (255),false,false,false,false,false,Female (1),Hardy (0),false
+RELICANTH - 618,RELICANTH (381),35,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TAKE DOWN (36),ROCK TOMB (317),YAWN (281),MUD SPORT (300),false,false,false,false,false,Male (0),Hardy (0),false
+GOLDUCK - 619,GOLDUCK (55),37,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,AERIAL ACE (332),WATER PULSE (352),CONFUSION (93),PSYCH UP (244),false,false,false,false,false,Female (1),Docile (6),false
+QUAGSIRE - 620,QUAGSIRE (195),35,0,None (0),"なし"  (0),0,0,0,0,0,0,0,0,0,0,0,0,0,SLAM (21),AMNESIA (133),YAWN (281),MUD SHOT (341),false,false,false,false,true,Female (1),Quirky (24),false
+CAMERUPT - 621,CAMERUPT (340),37,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUNNY DAY (241),FLAMETHROWER (53),TAKE DOWN (36),AMNESIA (133),false,false,false,false,false,Male (0),Quirky (24),false
+WEEZING - 622,WEEZING (110),37,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FLAMETHROWER (53),SMOKESCREEN (108),SLUDGE (124),HAZE (114),false,false,false,false,false,Male (0),Docile (6),false
+MUK - 623,MUK (89),38,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SLUDGE (124),FLAMETHROWER (53),SCREECH (103),ACID ARMOR (151),false,false,false,false,true,Female (1),Serious (12),false
+RAPIDASH - 624,RAPIDASH (78),41,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SOLARBEAM (76),BATON PASS (226),SUNNY DAY (241),FLAMETHROWER (53),false,false,false,false,true,Male (0),Quirky (24),false
+MAGCARGO - 625,MAGCARGO (219),40,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HEAT WAVE (257),REFRESH (287),EARTHQUAKE (89),FLAMETHROWER (53),false,false,false,false,false,Female (1),Docile (6),false
+CACTURNE - 626,CACTURNE (345),37,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SPIKES (191),FAINT ATTACK (185),INGRAIN (275),PIN MISSILE (42),false,false,false,false,false,Female (1),Hardy (0),false
+NINETALES - 627,NINETALES (38),37,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUNNY DAY (241),QUICK ATTACK (98),DIG (91),FLAMETHROWER (53),false,false,false,false,false,Male (0),Bashful (18),false
+TORKOAL - 628,TORKOAL (321),37,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUNNY DAY (241),FLAMETHROWER (53),SMOKESCREEN (108),BODY SLAM (34),false,false,false,false,false,Female (1),Docile (6),false
+MANTINE - 629,MANTINE (226),37,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WING ATTACK (17),AGILITY (97),TAKE DOWN (36),WATER PULSE (352),false,false,false,false,false,Female (1),Serious (12),false
+TROPIUS - 630,TROPIUS (369),35,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GROWTH (74),SOLARBEAM (76),MAGICAL LEAF (345),BODY SLAM (34),false,false,false,false,false,Male (0),Hardy (0),false
+MEDICHAM - 631,MEDICHAM (357),38,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HI JUMP KICK (136),CALM MIND (347),PSYCHIC (94),BRICK BREAK (280),false,false,false,false,false,Male (0),Quirky (24),false
+GOLEM - 632,GOLEM (76),38,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ROCK BLAST (350),ROLLOUT (205),ROCK THROW (88),MUD SPORT (300),false,false,false,false,false,Female (1),Docile (6),false
+XATU - 633,XATU (178),38,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FUTURE SIGHT (248),AERIAL ACE (332),PSYCHIC (94),NIGHT SHADE (101),false,false,false,false,false,Female (1),Bashful (18),false
+HITMONCHAN - 634,HITMONCHAN (107),41,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MEGA PUNCH (5),HELPING HAND (270),MIND READER (170),SKY UPPERCUT (327),false,false,false,false,false,Male (0),Docile (6),false
+GRUMPIG - 635,GRUMPIG (352),39,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYCHIC (94),MAGIC COAT (277),CONFUSE RAY (109),PSYCH UP (244),false,false,false,false,true,Male (0),Bashful (18),false
+SKARMORY - 636,SKARMORY (227),39,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,STEEL WING (211),AIR CUTTER (314),FURY ATTACK (31),AGILITY (97),false,false,false,false,false,Female (1),Serious (12),false
+METANG - 637,METANG (399),39,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYCHIC (94),IRON DEFENSE (334),SCARY FACE (184),METAL CLAW (232),false,false,false,false,false,Genderless (2),Docile (6),false
+HARIYAMA - 638,HARIYAMA (336),39,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SMELLINGSALT (265),BRICK BREAK (280),VITAL THROW (233),FAKE OUT (252),false,false,false,false,false,Female (1),Quirky (24),false
+HITMONLEE - 639,HITMONLEE (106),41,0,BLACK BELT (207),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HI JUMP KICK (136),REFRESH (287),MIND READER (170),MEGA KICK (25),false,false,false,false,false,Male (0),Hardy (0),false
+YANMA - 640,YANMA (193),39,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,AERIAL ACE (332),REVERSAL (179),DETECT (197),SUBSTITUTE (164),false,false,false,false,true,Female (1),Quirky (24),false
+ROSELIA - 641,ROSELIA (363),37,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GROWTH (74),GIGA DRAIN (202),INGRAIN (275),MAGICAL LEAF (345),false,false,false,false,false,Female (1),Serious (12),false
+SMEARGLE - 642,SMEARGLE (235),39,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUNNY DAY (241),SOLARBEAM (76),INGRAIN (275),GIGA DRAIN (202),false,false,false,false,false,Male (0),Docile (6),false
+VILEPLUME - 643,VILEPLUME (45),37,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GIGA DRAIN (202),PETAL DANCE (80),AROMATHERAPY (312),SOLARBEAM (76),false,false,false,false,false,Male (0),Bashful (18),false
+ALTARIA - 644,ALTARIA (359),40,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DRAGON DANCE (349),DRAGONBREATH (225),BODY SLAM (34),AERIAL ACE (332),false,false,false,false,false,Female (1),Serious (12),false
+BANETTE - 645,BANETTE (378),40,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SHADOW BALL (247),CALM MIND (347),SHOCK WAVE (351),PSYCHIC (94),false,false,false,false,false,Male (0),Quirky (24),false
+SABLEYE - 646,SABLEYE (322),40,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ASTONISH (310),SHADOW BALL (247),FAINT ATTACK (185),MOONLIGHT (236),false,false,false,false,false,Male (0),Docile (6),false
+DUSCLOPS - 647,DUSCLOPS (362),40,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SHADOW PUNCH (325),NIGHT SHADE (101),PURSUIT (228),ASTONISH (310),false,false,false,false,false,Female (1),Bashful (18),false
+CROBAT - 648,CROBAT (169),44,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MEAN LOOK (212),AIR CUTTER (314),ASTONISH (310),WING ATTACK (17),false,false,false,false,false,Male (0),Quirky (24),false
+WAILORD - 649,WAILORD (314),44,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER SPOUT (323),REST (156),MIST (54),WATER PULSE (352),false,false,false,false,true,Male (0),Hardy (0),false
+LANTURN - 650,LANTURN (171),41,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATER PULSE (352),SPARK (209),SHOCK WAVE (351),FLAIL (175),false,false,false,false,false,Male (0),Quirky (24),false
+MAGNETON - 651,MAGNETON (82),41,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,THUNDER (87),METAL SOUND (319),REFLECT (115),LOCK-ON (199),false,false,false,false,true,Genderless (2),Docile (6),false
+LICKITUNG - 652,LICKITUNG (108),41,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DOUBLE-EDGE (38),HELPING HAND (270),DEFENSE CURL (111),ROLLOUT (205),false,false,false,false,false,Male (0),Hardy (0),false
+STANTLER - 653,STANTLER (234),41,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TAKE DOWN (36),SAND-ATTACK (28),STOMP (23),HYPNOSIS (95),false,false,false,false,false,Female (1),Docile (6),false
+EXPLOUD - 654,EXPLOUD (372),41,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HYPER BEAM (63),SCREECH (103),STOMP (23),SUPERSONIC (48),true,false,false,false,false,Male (0),Quirky (24),false
+SCYTHER - 655,SCYTHER (123),43,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,RAZOR WIND (13),MORNING SUN (234),SILVER WIND (318),SLASH (163),true,false,false,false,false,Male (0),Hardy (0),false
+CHANSEY - 656,CHANSEY (113),42,0,LUCKY PUNCH (222),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,THUNDERBOLT (85),SWEET KISS (186),SOFTBOILED (135),SKILL SWAP (285),false,true,false,false,false,Female (1),Hardy (0),false
+METANG - 657,METANG (399),42,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ICE PUNCH (8),METAL CLAW (232),PSYCHIC (94),THUNDERPUNCH (9),false,false,false,false,false,Genderless (2),Quirky (24),false
+QUAGSIRE - 658,QUAGSIRE (195),42,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BRICK BREAK (280),WATERFALL (127),BODY SLAM (34),MUD SHOT (341),false,false,false,false,true,Male (0),Docile (6),false
+SCIZOR - 659,SCIZOR (212),42,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,AERIAL ACE (332),SILVER WIND (318),STEEL WING (211),SLASH (163),false,false,false,false,false,Female (1),Hardy (0),false
+SOLROCK - 660,SOLROCK (349),44,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYCHIC (94),BATON PASS (226),SUNNY DAY (241),COSMIC POWER (322),false,true,false,false,false,Genderless (2),Hardy (0),false
+CASTFORM - 661,CASTFORM (385),42,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WEATHER BALL (311),THUNDERBOLT (85),FLAMETHROWER (53),WATER PULSE (352),false,false,false,false,false,Male (0),Bashful (18),false
+STARMIE - 662,STARMIE (121),44,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,WATERFALL (127),REFRESH (287),ICE BEAM (58),RECOVER (105),true,false,false,false,false,Genderless (2),Hardy (0),false
+SHUCKLE - 663,SHUCKLE (213),44,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SANDSTORM (201),BIDE (117),TOXIC (92),WRAP (35),false,false,false,false,false,Male (0),Hardy (0),false
+BLISSEY - 664,BLISSEY (242),42,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,LIGHT SCREEN (113),DEFENSE CURL (111),EGG BOMB (121),SING (47),false,false,false,false,false,Female (1),Quirky (24),false
+WEEZING - 665,WEEZING (110),41,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FLAMETHROWER (53),SLUDGE BOMB (188),MEMENTO (262),THUNDERBOLT (85),false,false,false,false,false,Female (1),Bashful (18),false
+SWELLOW - 666,SWELLOW (305),46,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SKY ATTACK (143),BATON PASS (226),AGILITY (97),FACADE (263),true,false,false,false,false,Male (0),Hardy (0),false
+ALAKAZAM - 667,ALAKAZAM (65),44,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYCHIC (94),FIRE PUNCH (7),THUNDERPUNCH (9),ICE PUNCH (8),false,false,false,false,true,Male (0),Quirky (24),false
+KINGDRA - 668,KINGDRA (230),44,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HYDRO PUMP (56),DOUBLE-EDGE (38),ICE BEAM (58),DRAGONBREATH (225),false,false,false,false,false,Female (1),Docile (6),false
+HERACROSS - 669,HERACROSS (214),44,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MEGAHORN (224),BRICK BREAK (280),DOUBLE-EDGE (38),ROCK TOMB (317),false,false,false,false,false,Female (1),Bashful (18),false
+ELECTABUZZ - 670,ELECTABUZZ (125),46,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,CROSS CHOP (238),FOLLOW ME (266),THUNDER WAVE (86),THUNDERBOLT (85),true,false,false,false,false,Male (0),Hardy (0),false
+SNORLAX - 671,SNORLAX (143),46,0,LEFTOVERS (200),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FISSURE (90),REFRESH (287),CURSE (174),BODY SLAM (34),false,true,false,false,false,Male (0),Hardy (0),false
+SLOWKING - 672,SLOWKING (199),42,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYCHIC (94),WATER PULSE (352),ICE BEAM (58),EARTHQUAKE (89),false,false,false,false,true,Male (0),Bashful (18),false
+URSARING - 673,URSARING (217),43,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SLASH (163),EARTHQUAKE (89),BRICK BREAK (280),PROTECT (182),false,false,false,false,false,Male (0),Bashful (18),false
+AGGRON - 674,AGGRON (384),43,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EARTHQUAKE (89),IRON TAIL (231),DOUBLE-EDGE (38),PROTECT (182),false,false,false,false,true,Male (0),Quirky (24),false
+WALREIN - 675,WALREIN (343),44,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EARTHQUAKE (89),ICE BEAM (58),DOUBLE-EDGE (38),WATERFALL (127),false,false,false,false,false,Female (1),Docile (6),false
+POLIWRATH - 676,POLIWRATH (62),45,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HYDRO PUMP (56),HELPING HAND (270),RAIN DANCE (240),BRICK BREAK (280),false,true,false,false,false,Male (0),Hardy (0),false
+MR. MIME - 677,MR. MIME (122),45,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYCHIC (94),FOLLOW ME (266),ENCORE (227),THUNDERPUNCH (9),true,false,false,false,false,Male (0),Hardy (0),false
+GLALIE - 678,GLALIE (347),41,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ICE BEAM (58),HAIL (258),CRUNCH (242),ICY WIND (196),false,false,false,false,false,Male (0),Hardy (0),false
+AMPHAROS - 679,AMPHAROS (181),44,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,COTTON SPORE (178),THUNDERBOLT (85),LIGHT SCREEN (113),GROWL (45),false,false,false,false,false,Male (0),Bashful (18),false
+BRELOOM - 680,BRELOOM (307),42,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SPORE (147),FOCUS PUNCH (264),SKY UPPERCUT (327),MACH PUNCH (183),false,false,false,false,false,Female (1),Docile (6),false
+DONPHAN - 681,DONPHAN (232),44,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ROLLOUT (205),RAPID SPIN (229),FLAIL (175),DEFENSE CURL (111),false,false,false,false,false,Male (0),Serious (12),false
+DUGTRIO - 682,DUGTRIO (51),43,0,SOFT SAND (203),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EARTHQUAKE (89),CHARM (204),SANDSTORM (201),TRI ATTACK (161),false,false,false,false,false,Male (0),Hardy (0),false
+NINJASK - 683,NINJASK (302),45,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PROTECT (182),AERIAL ACE (332),SILVER WIND (318),DIG (91),false,false,false,false,false,Female (1),Docile (6),false
+MANECTRIC - 684,MANECTRIC (338),47,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,THUNDER (87),REFRESH (287),RAIN DANCE (240),BITE (44),true,false,true,false,true,Male (0),Hardy (0),false
+SALAMENCE - 685,SALAMENCE (397),51,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DRAGON CLAW (337),REFRESH (287),DRAGON DANCE (349),AERIAL ACE (332),false,false,false,false,false,Male (0),Hardy (0),false
+FLYGON - 686,FLYGON (334),45,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FLAMETHROWER (53),DRAGONBREATH (225),CRUNCH (242),DOUBLE-EDGE (38),false,false,false,false,true,Male (0),Quirky (24),false
+MAROWAK - 687,MAROWAK (105),47,0,THICK CLUB (224),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EARTHQUAKE (89),SING (47),SWORDS DANCE (14),ROCK SLIDE (157),false,true,false,true,false,Male (0),Hardy (0),false
+LAPRAS - 688,LAPRAS (131),47,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HYDRO PUMP (56),HEAL BELL (215),RAIN DANCE (240),BLIZZARD (59),false,false,false,false,false,Male (0),Hardy (0),false
+CORSOLA - 689,CORSOLA (222),44,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MIRROR COAT (243),ROCK BLAST (350),REFLECT (115),BUBBLEBEAM (61),false,false,false,false,false,Female (1),Bashful (18),false
+TENTACRUEL - 690,TENTACRUEL (73),44,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BARRIER (112),WRAP (35),MIRROR COAT (243),BUBBLEBEAM (61),false,false,false,false,false,Male (0),Docile (6),false
+CRADILY - 691,CRADILY (389),44,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MIRROR COAT (243),ANCIENTPOWER (246),INGRAIN (275),AMNESIA (133),false,false,false,false,false,Female (1),Docile (6),false
+MILOTIC - 692,MILOTIC (329),44,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,RECOVER (105),TWISTER (239),MIRROR COAT (243),WATER PULSE (352),false,false,false,false,false,Male (0),Serious (12),false
+GYARADOS - 693,GYARADOS (130),42,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DRAGON RAGE (82),WATER PULSE (352),HYPER BEAM (63),THRASH (37),false,false,false,false,false,Male (0),Serious (12),false
+SHIFTRY - 694,SHIFTRY (300),44,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FAKE OUT (252),GIGA DRAIN (202),SHADOW BALL (247),GROWTH (74),false,false,false,false,false,Male (0),Bashful (18),false
+GRANBULL - 695,GRANBULL (210),44,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),CHARM (204),BODY SLAM (34),SCARY FACE (184),false,false,false,false,false,Female (1),Serious (12),false
+MILTANK - 696,MILTANK (241),44,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BODY SLAM (34),SHADOW BALL (247),BRICK BREAK (280),MILK DRINK (208),false,false,false,false,false,Female (1),Bashful (18),false
+ARMALDO - 697,ARMALDO (391),41,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MUD SPORT (300),METAL CLAW (232),WATER PULSE (352),SLASH (163),false,false,false,false,false,Male (0),Quirky (24),false
+SLAKING - 698,SLAKING (366),43,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HYPER BEAM (63),FLAMETHROWER (53),SHADOW BALL (247),AMNESIA (133),false,false,false,false,false,Female (1),Quirky (24),false
+LUGIA - 699,LUGIA (249),53,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYCHO BOOST (354),FEATHERDANCE (297),EARTHQUAKE (89),HYDRO PUMP (56),false,false,false,false,false,Genderless (2),Hardy (0),false
+RHYDON - 700,RHYDON (112),47,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,MEGAHORN (224),HELPING HAND (270),SCARY FACE (184),EARTHQUAKE (89),false,true,false,true,false,Male (0),Hardy (0),false
+MOLTRES - 701,MOLTRES (146),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EXTRASENSORY (326),MORNING SUN (234),WILL-O-WISP (261),FLAMETHROWER (53),true,false,true,false,false,Genderless (2),Hardy (0),false
+EXEGGUTOR - 702,EXEGGUTOR (103),47,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYCHIC (94),REFRESH (287),HYPNOSIS (95),ANCIENTPOWER (246),false,true,false,false,false,Male (0),Hardy (0),false
+TAUROS - 703,TAUROS (128),47,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EARTHQUAKE (89),REFRESH (287),TAIL WHIP (39),BODY SLAM (34),true,true,true,false,false,Male (0),Hardy (0),false
+ARTICUNO - 704,ARTICUNO (144),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EXTRASENSORY (326),HEAL BELL (215),HAZE (114),ICE BEAM (58),false,false,false,false,false,Genderless (2),Hardy (0),false
+ZAPDOS - 705,ZAPDOS (145),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EXTRASENSORY (326),BATON PASS (226),METAL SOUND (319),THUNDERBOLT (85),false,false,false,false,false,Genderless (2),Hardy (0),false
+MANECTRIC - 706,MANECTRIC (338),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,THUNDERBOLT (85),CRUNCH (242),QUICK ATTACK (98),IRON TAIL (231),false,false,false,false,true,Male (0),Docile (6),false
+SWELLOW - 707,SWELLOW (305),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,AERIAL ACE (332),STEEL WING (211),FACADE (263),MUD-SLAP (189),false,false,false,false,false,Male (0),Bashful (18),false
+STARMIE - 708,STARMIE (121),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYCHIC (94),THUNDERBOLT (85),ICE BEAM (58),SWIFT (129),false,false,false,false,false,Genderless (2),Serious (12),false
+GRANBULL - 709,GRANBULL (210),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EARTHQUAKE (89),SHADOW BALL (247),BRICK BREAK (280),DOUBLE-EDGE (38),false,false,false,false,false,Male (0),Hardy (0),false
+ALTARIA - 710,ALTARIA (359),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DRAGONBREATH (225),EARTHQUAKE (89),AERIAL ACE (332),STEEL WING (211),false,false,false,false,false,Female (1),Quirky (24),false
+AERODACTYL - 711,AERODACTYL (142),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EARTHQUAKE (89),ANCIENTPOWER (246),AERIAL ACE (332),DOUBLE-EDGE (38),false,false,false,false,false,Male (0),Quirky (24),false
+ALTARIA - 712,ALTARIA (359),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,AERIAL ACE (332),DRAGON DANCE (349),DRAGONBREATH (225),TAKE DOWN (36),false,false,false,false,false,Female (1),Hardy (0),false
+MILOTIC - 713,MILOTIC (329),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ICE BEAM (58),ATTRACT (213),HYDRO PUMP (56),RAIN DANCE (240),false,false,false,false,false,Male (0),Serious (12),false
+PELIPPER - 714,PELIPPER (310),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,AERIAL ACE (332),SHOCK WAVE (351),SURF (57),PROTECT (182),false,false,false,false,false,Female (1),Hardy (0),false
+HOUNDOUR - 715,HOUNDOUR (228),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FAINT ATTACK (185),CHARM (204),EMBER (52),ROAR (46),false,false,false,false,true,Male (0),Hardy (0),false
+MAGCARGO - 716,MAGCARGO (219),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,OVERHEAT (315),BODY SLAM (34),ROCK SLIDE (157),LIGHT SCREEN (113),false,false,false,false,false,Male (0),Docile (6),false
+CAMERUPT - 717,CAMERUPT (340),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,REST (156),SLEEP TALK (214),ERUPTION (284),DIG (91),false,false,false,false,false,Female (1),Hardy (0),false
+KINGDRA - 718,KINGDRA (230),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,RAIN DANCE (240),WATERFALL (127),ICE BEAM (58),HYPER BEAM (63),false,false,false,false,false,Male (0),Quirky (24),false
+SEAKING - 719,SEAKING (119),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,RAIN DANCE (240),WATERFALL (127),ICE BEAM (58),HORN DRILL (32),false,false,false,false,false,Female (1),Serious (12),false
+METAGROSS - 720,METAGROSS (400),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,METEOR MASH (309),PSYCHIC (94),EARTHQUAKE (89),SHADOW BALL (247),false,false,false,false,false,Genderless (2),Hardy (0),false
+SPHEAL - 721,SPHEAL (341),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,AURORA BEAM (62),CHARM (204),WATER GUN (55),MUD-SLAP (189),false,false,false,false,false,Male (0),Hardy (0),false
+BALTOY - 722,BALTOY (318),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ROCK TOMB (317),REFRESH (287),MUD-SLAP (189),PSYBEAM (60),false,false,false,false,false,Genderless (2),Hardy (0),false
+NOCTOWL - 723,NOCTOWL (164),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYCHIC (94),AERIAL ACE (332),SWIFT (129),REFLECT (115),false,false,false,false,true,Male (0),Quirky (24),false
+SLAKING - 724,SLAKING (366),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EARTHQUAKE (89),SHADOW BALL (247),BRICK BREAK (280),AERIAL ACE (332),false,false,false,false,false,Male (0),Hardy (0),false
+MAREEP - 725,MAREEP (179),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BODY SLAM (34),HEAL BELL (215),THUNDERSHOCK (84),THUNDER WAVE (86),false,false,false,false,false,Male (0),Hardy (0),false
+MANECTRIC - 726,MANECTRIC (338),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,RAIN DANCE (240),SWIFT (129),THUNDER WAVE (86),THUNDER (87),false,false,false,false,false,Male (0),Quirky (24),false
+LANTURN - 727,LANTURN (171),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,CONFUSE RAY (109),THUNDER (87),HYDRO PUMP (56),THUNDER WAVE (86),false,false,false,false,false,Female (1),Serious (12),false
+MAGNETON - 728,MAGNETON (82),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SWIFT (129),THUNDER (87),THUNDER WAVE (86),METAL SOUND (319),false,false,false,false,true,Genderless (2),Hardy (0),false
+WEEZING - 729,WEEZING (110),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SHADOW BALL (247),SWAGGER (207),TOXIC (92),SLUDGE BOMB (188),false,false,false,false,false,Female (1),Serious (12),false
+MUK - 730,MUK (89),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SLUDGE BOMB (188),TOXIC (92),SWAGGER (207),MINIMIZE (107),false,false,false,false,true,Male (0),Docile (6),false
+GULPIN - 731,GULPIN (367),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SHOCK WAVE (351),SING (47),SLUDGE (124),TOXIC (92),false,false,false,false,false,Male (0),Hardy (0),false
+TENTACRUEL - 732,TENTACRUEL (73),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HYDRO PUMP (56),BARRIER (112),SLUDGE BOMB (188),GIGA DRAIN (202),false,false,false,false,true,Female (1),Hardy (0),false
+GOLBAT - 733,GOLBAT (42),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),SWAGGER (207),SLUDGE BOMB (188),SHADOW BALL (247),false,false,false,false,false,Female (1),Hardy (0),false
+VILEPLUME - 734,VILEPLUME (45),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUNNY DAY (241),SOLARBEAM (76),STUN SPORE (78),SLUDGE BOMB (188),false,false,false,false,false,Male (0),Docile (6),false
+CACTURNE - 735,CACTURNE (345),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUNNY DAY (241),NEEDLE ARM (302),SOLARBEAM (76),FAINT ATTACK (185),false,false,false,false,false,Female (1),Quirky (24),false
+BRELOOM - 736,BRELOOM (307),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,LEECH SEED (73),SOLARBEAM (76),BRICK BREAK (280),IRON TAIL (231),false,false,false,false,false,Female (1),Hardy (0),false
+LOMBRE - 737,LOMBRE (296),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HYDRO PUMP (56),UPROAR (253),THIEF (168),WATER SPORT (346),false,false,false,false,false,Male (0),Hardy (0),false
+FORRETRESS - 738,FORRETRESS (205),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SPIKES (191),EXPLOSION (153),BIDE (117),RAPID SPIN (229),false,false,false,false,false,Male (0),Serious (12),false
+SEEDOT - 739,SEEDOT (298),17,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GIGA DRAIN (202),REFRESH (287),BULLET SEED (331),SECRET POWER (290),false,false,false,false,false,Male (0),Hardy (0),false
+MAGCARGO - 740,MAGCARGO (219),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,OVERHEAT (315),BODY SLAM (34),ROCK SLIDE (157),LIGHT SCREEN (113),false,false,false,false,false,Male (0),Docile (6),false
+CAMERUPT - 741,CAMERUPT (340),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,REST (156),SLEEP TALK (214),ERUPTION (284),DIG (91),false,false,false,false,false,Female (1),Hardy (0),false
+KINGDRA - 742,KINGDRA (230),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,RAIN DANCE (240),WATERFALL (127),ICE BEAM (58),HYPER BEAM (63),false,false,false,false,false,Male (0),Quirky (24),false
+SEAKING - 743,SEAKING (119),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,RAIN DANCE (240),WATERFALL (127),ICE BEAM (58),HORN DRILL (32),false,false,false,false,false,Female (1),Serious (12),false
+METAGROSS - 744,METAGROSS (400),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,METEOR MASH (309),PSYCHIC (94),EARTHQUAKE (89),SHADOW BALL (247),false,false,false,false,false,Genderless (2),Hardy (0),false
+NOCTOWL - 745,NOCTOWL (164),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYCHIC (94),AERIAL ACE (332),SWIFT (129),REFLECT (115),false,false,false,false,true,Male (0),Quirky (24),false
+SLAKING - 746,SLAKING (366),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EARTHQUAKE (89),SHADOW BALL (247),BRICK BREAK (280),AERIAL ACE (332),false,false,false,false,false,Male (0),Hardy (0),false
+MANECTRIC - 747,MANECTRIC (338),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,RAIN DANCE (240),SWIFT (129),THUNDER WAVE (86),THUNDER (87),false,false,false,false,false,Male (0),Quirky (24),false
+LANTURN - 748,LANTURN (171),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,CONFUSE RAY (109),THUNDER (87),HYDRO PUMP (56),THUNDER WAVE (86),false,false,false,false,false,Female (1),Serious (12),false
+MAGNETON - 749,MAGNETON (82),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SWIFT (129),THUNDER (87),THUNDER WAVE (86),METAL SOUND (319),false,false,false,false,true,Genderless (2),Hardy (0),false
+WEEZING - 750,WEEZING (110),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SHADOW BALL (247),SWAGGER (207),TOXIC (92),SLUDGE BOMB (188),false,false,false,false,false,Female (1),Serious (12),false
+MUK - 751,MUK (89),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SLUDGE BOMB (188),TOXIC (92),SWAGGER (207),MINIMIZE (107),false,false,false,false,true,Male (0),Docile (6),false
+TENTACRUEL - 752,TENTACRUEL (73),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HYDRO PUMP (56),BARRIER (112),SLUDGE BOMB (188),GIGA DRAIN (202),false,false,false,false,true,Female (1),Hardy (0),false
+GOLBAT - 753,GOLBAT (42),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),SWAGGER (207),SLUDGE BOMB (188),SHADOW BALL (247),false,false,false,false,false,Female (1),Hardy (0),false
+VILEPLUME - 754,VILEPLUME (45),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUNNY DAY (241),SOLARBEAM (76),STUN SPORE (78),SLUDGE BOMB (188),false,false,false,false,false,Male (0),Docile (6),false
+CACTURNE - 755,CACTURNE (345),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUNNY DAY (241),NEEDLE ARM (302),SOLARBEAM (76),FAINT ATTACK (185),false,false,false,false,false,Female (1),Quirky (24),false
+BRELOOM - 756,BRELOOM (307),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,LEECH SEED (73),SOLARBEAM (76),BRICK BREAK (280),IRON TAIL (231),false,false,false,false,false,Female (1),Hardy (0),false
+LOMBRE - 757,LOMBRE (296),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HYDRO PUMP (56),UPROAR (253),THIEF (168),WATER SPORT (346),false,false,false,false,false,Male (0),Hardy (0),false
+FORRETRESS - 758,FORRETRESS (205),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SPIKES (191),EXPLOSION (153),BIDE (117),RAPID SPIN (229),false,false,false,false,false,Male (0),Serious (12),false
+GARDEVOIR - 759,GARDEVOIR (394),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FIRE PUNCH (7),PSYCHIC (94),THUNDERPUNCH (9),ICE PUNCH (8),false,false,false,false,true,Female (1),Serious (12),false
+GRANBULL - 760,GRANBULL (210),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),SHADOW BALL (247),BRICK BREAK (280),SCARY FACE (184),false,false,false,false,false,Male (0),Quirky (24),false
+SHIFTRY - 761,SHIFTRY (300),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SUNNY DAY (241),SHADOW BALL (247),AERIAL ACE (332),SOLARBEAM (76),false,false,false,false,false,Male (0),Docile (6),false
+HOUNDOOM - 762,HOUNDOOM (229),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BITE (44),FLAMETHROWER (53),SLUDGE BOMB (188),SOLARBEAM (76),false,false,false,false,true,Female (1),Hardy (0),false
+BANETTE - 763,BANETTE (378),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,THUNDERBOLT (85),SHADOW BALL (247),WILL-O-WISP (261),PSYCHIC (94),false,false,false,false,false,Female (1),Hardy (0),false
+LEDIAN - 764,LEDIAN (166),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,AERIAL ACE (332),THUNDERPUNCH (9),PSYBEAM (60),LIGHT SCREEN (113),false,false,false,false,true,Female (1),Docile (6),false
+OCTILLERY - 765,OCTILLERY (224),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SLUDGE BOMB (188),OCTAZOOKA (190),PSYCHIC (94),ICE BEAM (58),false,false,false,false,false,Male (0),Quirky (24),false
+TOGETIC - 766,TOGETIC (176),50,255,None (0),"なし"  (0),0,0,0,0,0,0,0,0,0,0,0,0,0,YAWN (281),SWEET KISS (186),RETURN (216),SWIFT (129),false,false,false,false,true,Female (1),Bashful (18),false
+MAGCARGO - 767,MAGCARGO (219),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ROCK SLIDE (157),FLAMETHROWER (53),BODY SLAM (34),YAWN (281),false,false,false,false,true,Female (1),Hardy (0),false
+XATU - 768,XATU (178),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,AERIAL ACE (332),LIGHT SCREEN (113),PSYCHIC (94),SHADOW BALL (247),false,false,false,false,false,Female (1),Bashful (18),false
+VILEPLUME - 769,VILEPLUME (45),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GIGA DRAIN (202),STUN SPORE (78),SLUDGE BOMB (188),DOUBLE-EDGE (38),false,false,false,false,false,Female (1),Quirky (24),false
+LINOONE - 770,LINOONE (289),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HEADBUTT (29),SHADOW BALL (247),DIG (91),IRON TAIL (231),false,false,false,false,false,Female (1),Hardy (0),false
+EXPLOUD - 771,EXPLOUD (372),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,UPROAR (253),SHOCK WAVE (351),BRICK BREAK (280),FLAMETHROWER (53),false,false,false,false,false,Male (0),Docile (6),false
+AIPOM - 772,AIPOM (190),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SCRATCH (10),BRICK BREAK (280),SHADOW BALL (247),AERIAL ACE (332),false,false,false,false,false,Male (0),Bashful (18),false
+DUNSPARCE - 773,DUNSPARCE (206),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TAKE DOWN (36),SHADOW BALL (247),DIG (91),IRON TAIL (231),false,false,false,false,false,Female (1),Quirky (24),false
+PILOSWINE - 774,PILOSWINE (221),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,EARTHQUAKE (89),BLIZZARD (59),HYPER BEAM (63),ROCK TOMB (317),false,false,false,false,false,Female (1),Hardy (0),false
+SALAMENCE - 775,SALAMENCE (397),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,AERIAL ACE (332),BRICK BREAK (280),DRAGON CLAW (337),CRUNCH (242),false,false,false,false,false,Female (1),Docile (6),false
+MURKROW - 776,MURKROW (198),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,FAINT ATTACK (185),SHADOW BALL (247),STEEL WING (211),AERIAL ACE (332),false,false,false,false,false,Male (0),Bashful (18),false
+GOREBYSS - 777,GOREBYSS (375),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HYDRO PUMP (56),SHADOW BALL (247),ICE BEAM (58),PSYCHIC (94),false,false,false,false,false,Female (1),Quirky (24),false
+MACHAMP - 778,MACHAMP (68),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,CROSS CHOP (238),DIG (91),FLAMETHROWER (53),ROCK TOMB (317),false,false,false,false,false,Male (0),Hardy (0),false
+TENTACRUEL - 779,TENTACRUEL (73),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HYDRO PUMP (56),SLUDGE BOMB (188),ICE BEAM (58),GIGA DRAIN (202),false,false,false,false,true,Male (0),Docile (6),false
+LUDICOLO - 780,LUDICOLO (297),57,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,RAIN DANCE (240),GIGA DRAIN (202),HYDRO PUMP (56),FAKE OUT (252),false,false,false,false,false,Male (0),Hardy (0),false
+LUDICOLO - 781,LUDICOLO (297),57,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,RAIN DANCE (240),GIGA DRAIN (202),HYDRO PUMP (56),COUNTER (68),false,false,false,false,false,Male (0),Bashful (18),false
+LUDICOLO - 782,LUDICOLO (297),57,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,RAIN DANCE (240),GIGA DRAIN (202),WATERFALL (127),BRICK BREAK (280),false,false,false,false,false,Female (1),Serious (12),false
+LUDICOLO - 783,LUDICOLO (297),57,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,RAIN DANCE (240),FIRE PUNCH (7),ICE PUNCH (8),THUNDERPUNCH (9),false,false,false,false,false,Female (1),Serious (12),false
+LUDICOLO - 784,LUDICOLO (297),57,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,RAIN DANCE (240),GIGA DRAIN (202),HYDRO PUMP (56),SEISMIC TOSS (69),false,false,false,false,false,Male (0),Hardy (0),false
+DRAGONITE - 785,DRAGONITE (149),57,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HYPER BEAM (63),HEAL BELL (215),DRAGON DANCE (349),EARTHQUAKE (89),false,false,false,false,false,Male (0),Hardy (0),false
+PICHU - 786,PICHU (172),45,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,RAIN DANCE (240),THUNDERBOLT (85),None (0),None (0),false,false,false,false,false,Male (0),Hardy (0),false
+PICHU - 787,PICHU (172),45,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,THUNDER WAVE (86),THUNDER (87),None (0),None (0),false,false,false,false,false,Male (0),Serious (12),false
+PIKACHU - 788,PIKACHU (25),50,0,LIGHT BALL (202),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,THUNDER (87),THUNDER WAVE (86),None (0),None (0),false,false,false,false,false,Male (0),Docile (6),false
+PIKACHU - 789,PIKACHU (25),50,0,LIGHT BALL (202),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,VOLT TACKLE (344),RAIN DANCE (240),None (0),None (0),false,false,false,false,false,Male (0),Bashful (18),false
+RAICHU - 790,RAICHU (26),55,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,THUNDER (87),THUNDER WAVE (86),BRICK BREAK (280),COUNTER (68),false,false,false,false,false,Male (0),Serious (12),false
+RAICHU - 791,RAICHU (26),55,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,VOLT TACKLE (344),RAIN DANCE (240),BRICK BREAK (280),COUNTER (68),false,false,false,false,false,Male (0),Docile (6),false
+FURRET - 792,FURRET (162),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SLAM (21),DIG (91),SHOCK WAVE (351),WATER PULSE (352),false,false,false,false,true,Male (0),Hardy (0),false
+NOCTOWL - 793,NOCTOWL (164),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,REFLECT (115),AERIAL ACE (332),STEEL WING (211),FORESIGHT (193),false,false,false,false,false,Female (1),Docile (6),false
+NINJASK - 794,NINJASK (302),50,255,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SWORDS DANCE (14),RETURN (216),AERIAL ACE (332),DIG (91),false,false,false,false,false,Male (0),Hardy (0),false
+SHEDINJA - 795,SHEDINJA (303),50,255,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SWORDS DANCE (14),RETURN (216),AERIAL ACE (332),SHADOW BALL (247),false,false,false,false,false,Genderless (2),Hardy (0),false
+NOCTOWL - 796,NOCTOWL (164),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PSYCHIC (94),TAKE DOWN (36),AERIAL ACE (332),SHADOW BALL (247),false,false,false,false,true,Male (0),Docile (6),false
+FURRET - 797,FURRET (162),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BRICK BREAK (280),FOLLOW ME (266),HELPING HAND (270),SHADOW BALL (247),false,false,false,false,false,Female (1),Hardy (0),false
+CROBAT - 798,CROBAT (169),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,HYPER BEAM (63),SLUDGE BOMB (188),AERIAL ACE (332),SHADOW BALL (247),false,false,false,false,false,Male (0),Bashful (18),false
+SNEASEL - 799,SNEASEL (215),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SLASH (163),BRICK BREAK (280),SHADOW BALL (247),AERIAL ACE (332),false,false,false,false,true,Male (0),Docile (6),false
+GRUMPIG - 800,GRUMPIG (352),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ICE PUNCH (8),THUNDERPUNCH (9),PSYCHIC (94),MAGIC COAT (277),false,false,false,false,false,Male (0),Hardy (0),false
+SPINDA - 801,SPINDA (308),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DOUBLE-EDGE (38),SHADOW BALL (247),PSYCHIC (94),TEETER DANCE (298),false,false,false,false,false,Female (1),Bashful (18),false
+LINOONE - 802,LINOONE (289),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PIN MISSILE (42),MUD SPORT (300),SLASH (163),ICE BEAM (58),false,false,false,false,false,Female (1),Docile (6),false
+LINOONE - 803,LINOONE (289),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PIN MISSILE (42),DIG (91),HEADBUTT (29),IRON TAIL (231),false,false,false,false,false,Female (1),Hardy (0),false
+LINOONE - 804,LINOONE (289),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SURF (57),SHADOW BALL (247),MUD-SLAP (189),HEADBUTT (29),false,false,false,false,false,Male (0),Bashful (18),false
+LINOONE - 805,LINOONE (289),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,THUNDERBOLT (85),SWIFT (129),DIG (91),SLASH (163),false,false,false,false,false,Male (0),Serious (12),false
+AZUMARILL - 806,AZUMARILL (184),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BRICK BREAK (280),DOUBLE-EDGE (38),IRON TAIL (231),ROLLOUT (205),false,false,false,false,false,Male (0),Docile (6),false
+WIGGLYTUFF - 807,WIGGLYTUFF (40),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BRICK BREAK (280),PSYCHIC (94),SHADOW BALL (247),THUNDERBOLT (85),false,false,false,false,false,Female (1),Serious (12),false
+TOGETIC - 808,TOGETIC (176),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SHOCK WAVE (351),PSYCHIC (94),FLAMETHROWER (53),WATER PULSE (352),false,false,false,false,true,Male (0),Quirky (24),false
+VILEPLUME - 809,VILEPLUME (45),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,PETAL DANCE (80),MEGA DRAIN (72),STUN SPORE (78),AROMATHERAPY (312),false,false,false,false,false,Male (0),Docile (6),false
+MACHAMP - 810,MACHAMP (68),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,CROSS CHOP (238),SUBMISSION (66),VITAL THROW (233),REVENGE (279),false,false,false,false,false,Female (1),Hardy (0),false
+MIGHTYENA - 811,MIGHTYENA (287),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,CRUNCH (242),TAUNT (269),TAKE DOWN (36),SCARY FACE (184),false,false,false,false,false,Male (0),Quirky (24),false
+NINJASK - 812,NINJASK (302),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,BATON PASS (226),AGILITY (97),SLASH (163),SWORDS DANCE (14),false,false,false,false,false,Male (0),Serious (12),false
+SHEDINJA - 813,SHEDINJA (303),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GRUDGE (288),SHADOW BALL (247),CONFUSE RAY (109),SPITE (180),false,false,false,false,false,Genderless (2),Hardy (0),false
+HITMONTOP - 814,HITMONTOP (237),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,ENDEAVOR (283),DETECT (197),AGILITY (97),COUNTER (68),false,false,false,false,false,Male (0),Docile (6),false
+MUK - 815,MUK (89),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SLUDGE BOMB (188),ACID ARMOR (151),SCREECH (103),MINIMIZE (107),false,false,false,false,false,Male (0),Serious (12),false
+CROBAT - 816,CROBAT (169),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,POISON FANG (305),MEAN LOOK (212),AIR CUTTER (314),CONFUSE RAY (109),false,false,false,false,false,Male (0),Quirky (24),false
+DUSTOX - 817,DUSTOX (294),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TOXIC (92),SILVER WIND (318),LIGHT SCREEN (113),WHIRLWIND (18),false,false,false,false,false,Female (1),Docile (6),false
+BEAUTIFLY - 818,BEAUTIFLY (292),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,GIGA DRAIN (202),SILVER WIND (318),ATTRACT (213),WHIRLWIND (18),false,false,false,false,false,Male (0),Serious (12),false
+DUSTOX - 819,DUSTOX (294),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TOXIC (92),SILVER WIND (318),LIGHT SCREEN (113),WHIRLWIND (18),false,false,false,false,false,Male (0),Quirky (24),false
+GRUMPIG - 820,GRUMPIG (352),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,SNORE (173),REST (156),PSYCHIC (94),MAGIC COAT (277),false,false,false,false,false,Male (0),Quirky (24),false
+MAGNETON - 821,MAGNETON (82),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,TRI ATTACK (161),LOCK-ON (199),THUNDER (87),THUNDER WAVE (86),false,false,false,false,true,Genderless (2),Docile (6),false
+NUMEL - 822,NUMEL (339),50,0,None (0),"フリー"  (1),0,0,0,0,0,0,0,0,0,0,0,0,0,DOUBLE-EDGE (38),FLAMETHROWER (53),EARTHQUAKE (89),AMNESIA (133),false,false,false,false,false,Male (0),Serious (12),false
