@@ -20,6 +20,8 @@ Legendaries also had a single new "egg move" added (most have Extrasensory, but 
 **purification_moves.txt** is a list of the generic special moves Shadow Pokémon get at purification. It contains most of these moves (excluding the unique ones legendaries get and Morning Sun, plus the addition of Encore). Feel free to change this list as desired (using the proper move names as they appear in the list of moves extracted from the game), but keep in mind any Pokémon can learn any of these moves.
 
 ## Options
+To change the options you have to compile the program yourself (I might change this for a later release if there's enough interest)
+
 * **Skip Lugia:** skips changing the Shadow Lugia (by default is false)
 * **Skip Togepi:** skips changing the gift Togepi (by default is false)
 * **Similar BST:** only picks a new random Shadow from the pool of Pokémon with a Base Stat Total within a range of the original Pokémon (by default it's true)
