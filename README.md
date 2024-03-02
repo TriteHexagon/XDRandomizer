@@ -28,4 +28,5 @@ To change the options you have to compile the program yourself (I might change t
 * **BSTRange:** the range of the Base Stat Total for picking a new Shadow. It considers the original BST +- the range. By default it's 50 (so a Pokémon with 500 BST can be replaced by any Pokémon with 450 to 550 BST, etc).
 * **MoveTutorPercentageAsPurificationMoves:** how likely the 4th move is to be a move tutor move instead of the purification move. So a 1 means that all moves on the 4th slot will be a move tutor move and 0 means that all moves in the 4th slot will be a purification move (by default it's 0.8)
 
-
+## Known Bugs
+* Maybe it doesn't work with Mr. Mime? I think the game *could* potentially still work since it does get the number, but more testing could be done.
