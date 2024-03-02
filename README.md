@@ -1,5 +1,5 @@
-# XD Shadow Pokémon Randomizer
-A randomizer for Pokémon XD that changes every Shadow in the game. All the .csv and .txt files are necessary for the program to work.
+# Better XD Shadow Pokémon Randomizer
+A randomizer for Pokémon XD that changes every Shadow in the game with better movesets. All the .csv and .txt files are necessary for the program to work (all comes with the releases).
 
 Creates two new files: **[NEW] Shadow Pokémon.csv** and **[NEW] Trainer Pokemon DeckData_Story.bin**. Take out the [NEW] from the names and replace the corresponding files extracted from the game using the GoD Tool.
 
