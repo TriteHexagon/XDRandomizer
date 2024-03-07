@@ -37,9 +37,9 @@ Generic damage-dealing Shadow moves are divided into physical (Blitz, Rush and B
 
 Status moves are picked randomly from a list appropriate for the level of the Pokémon. Mist, Hold and Shed are always on the list; Panic and Sky are added for Pokémon at or above *ShadowPanicSkyLevel* (default level 19); Half and Down are considered above *ShadowHalfDownLevel* (default level 33).
 
-Shadow End is considered only if the check for a physical strong move is passed. Then another random check is made against *ShadowEndProb*. This value changes based on the move slot: 15% for the first two moves, 40% for the last two.
+Shadow End is considered only if the check for a physical strong move is passed. Then another random check is made against *ShadowEndProb*. This value changes based on the move slot: 15% for the first two moves, 35% for the last two.
 
-Shadow Fire, Chill, and Bolt work similarly to Shadow End, and are only considered when a strong special move is picked, and then against *SpecialSignMoveProb* (70% for the first two move slots, 90% for the third and 4th move slots). However, there's a further compatibilty check against the moves they are based on (Flamethrower, Ice Beam, and Thunderbolt). If more than one move is compatible, it's picked randomly.
+Shadow Fire, Chill, and Bolt work similarly to Shadow End, and are only considered when a strong special move is picked, and then against *SpecialSignMoveProb* (50% for the first two move slots, 70% for the third and 4th move slots). However, there's a further compatibilty check against the moves they are based on (Flamethrower, Ice Beam, and Thunderbolt). If more than one move is compatible, it's picked randomly.
 
 ## Known Bugs
 * Maybe it doesn't work with Mr. Mime? I think the game *could* potentially still work since it does get the number, but more testing could be done.
