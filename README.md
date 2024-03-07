@@ -19,6 +19,8 @@ Legendaries also had a single new "egg move" added (most have Extrasensory, but 
 
 **purification_moves.txt** is a list of the generic special moves Shadow Pokémon get at purification. It contains most of these moves (excluding the unique ones legendaries get and Morning Sun, plus the addition of Encore). Feel free to change this list as desired (using the proper move names as they appear in the list of moves extracted from the game), but keep in mind any Pokémon can learn any of these moves.
 
+New in v1.1 is a Shadow move randomizer that tries to give each Pokémon a damage-dealing move appropriate for its level, a high chance of having a status move, and also distributes Shadow End and the birds' signature moves rarely (these last ones based on compatibility with Ice Beam / Flamethrower / Thunderbolt). More explanation below.
+
 ## Options
 To change the options you have to compile the program yourself (I might change this for a later release if there's enough interest)
 
@@ -27,6 +29,17 @@ To change the options you have to compile the program yourself (I might change t
 * **Similar BST:** only picks a new random Shadow from the pool of Pokémon with a Base Stat Total within a range of the original Pokémon (by default it's true)
 * **BSTRange:** the range of the Base Stat Total for picking a new Shadow. It considers the original BST +- the range. By default it's 50 (so a Pokémon with 500 BST can be replaced by any Pokémon with 450 to 550 BST, etc).
 * **MoveTutorPercentageAsPurificationMoves:** how likely the 4th move is to be a move tutor move instead of the purification move. So a 1 means that all moves on the 4th slot will be a move tutor move and 0 means that all moves in the 4th slot will be a purification move (by default it's 0.8)
+
+## Shadow Move randomizer
+Each Pokémon has a guaranteed damage-dealing move in the first slot, a 90% chance of a status move in the 2nd slot, and equal chance for the other two slots (if applicable).
+
+Generic damage-dealing Shadow moves are divided into physical (Blitz, Rush and Break) and special (Wave, Rave, and Storm). Each Pokémon can only have one move from each category. The chance of getting a physical or special move depends on the ratio of the Pokémon's Attack to its Special Attack (so if they are the same the chance is 50%); this chance follows a logistic distribution that can be controlled with *PhysicalSpecialTolerance* (default 8). The chance of getting a weak, medium or strong move follows a Poisson distribution for each, which are then normalized. The parameter that controls these distributions are the mean of the Poisson distribution *PoissonLambdaWeak*, *PoissonLambdaMid*, *PoissonLambdaStrong* (default values 22, 32 and 48)
+
+Status moves are picked randomly from a list appropriate for the level of the Pokémon. Mist, Hold and Shed are always on the list; Panic and Sky are added for Pokémon at or above *ShadowPanicSkyLevel* (default level 19); Half and Down are considered above *ShadowHalfDownLevel* (default level 33).
+
+Shadow End is considered only if the check for a physical strong move is passed. Then another random check is made against *ShadowEndProb*. This value changes based on the move slot: 15% for the first two moves, 40% for the last two.
+
+Shadow Fire, Chill, and Bolt work similarly to Shadow End, and are only considered when a strong special move is picked, and then against *SpecialSignMoveProb* (70% for the first two move slots, 90% for the third and 4th move slots). However, there's a further compatibilty check against the moves they are based on (Flamethrower, Ice Beam, and Thunderbolt). If more than one move is compatible, it's picked randomly.
 
 ## Known Bugs
 * Maybe it doesn't work with Mr. Mime? I think the game *could* potentially still work since it does get the number, but more testing could be done.
