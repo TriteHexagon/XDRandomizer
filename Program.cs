@@ -9,6 +9,12 @@ bool SimilarBST = false;
 double MoveTutorPercentageAsPurificationMoves = 0.8; //only between 0 and 1 please
 int BSTRange = 50;
 
+//Probability of picking Shadow End
+double ShadowEndProb = 0.15;
+
+//Probability of picking on the of legendaries' signature moves
+double SpecialSignMoveProb = 0.7;
+
 string path = Directory.GetCurrentDirectory();
 
 string ShadowListPath = path + "//" + "Shadow Pokemon.csv";
@@ -52,12 +58,14 @@ using (SkippableStreamReader reader1 = new SkippableStreamReader(ShadowListPath)
         if (SkipLugia && ShadowPKMN == "LUGIA  (699)")
         {
             NewShadowList.WriteLine(line);
+            Console.WriteLine("Skipped Lugia!");
             goto shadowskip;
         }
 
         if (SkipTogepi && ShadowPKMN == "TOGEPI  (1)")
         {
             NewShadowList.WriteLine(line);
+            Console.WriteLine("Skipped Togepi!");
             goto shadowskip;
         }
 
@@ -154,9 +162,9 @@ using (SkippableStreamReader reader1 = new SkippableStreamReader(ShadowListPath)
                 (string NameToCompare, int IdontCare) = NameAndIDExtractor(NewMasterShadowList.ElementAt(i)[1]);
                 if (NameToCompare == NewShadowNameIndexNoName)
                 {
-                    Console.ForegroundColor = ConsoleColor.Green;
-                    Console.WriteLine("Duplicate!");
-                    Console.ResetColor();
+                    //Console.ForegroundColor = ConsoleColor.Green;
+                    //Console.WriteLine("Duplicate!");
+                    //Console.ResetColor();
                     PKMNApproved = false;
                 }        
             }
@@ -170,6 +178,42 @@ using (SkippableStreamReader reader1 = new SkippableStreamReader(ShadowListPath)
         // but we want to keep the position name!
         string NewShadowNameStoryDeckNo = NewShadowNameIndexNoName + " - " + ShadowPKMNPositionInStoryDeck;
         ShadowListLine[5] = NewShadowNameStoryDeckNo;
+
+        //shadow moves randomizer
+
+        List<string> ListOfShadowMoves = new List<string>();
+
+        string ShadowMove;
+        bool[] PhysicalAndSpecialMovePicked = [false, false];
+
+        //first move has 0 chance of being a status move AKA is always damage-dealing
+
+        (ShadowMove, PhysicalAndSpecialMovePicked) = PickShadowMove(0, PKMNStatLine, ShadowLevel, ListOfShadowMoves, PhysicalAndSpecialMovePicked,
+             ShadowEndProb,SpecialSignMoveProb);
+        ListOfShadowMoves.Add(ShadowMove);
+        ShadowListLine[7] = ShadowMove;
+
+        //second move has a 90% chance of being a status move
+        (ShadowMove, PhysicalAndSpecialMovePicked) = PickShadowMove(0.9, PKMNStatLine, ShadowLevel, ListOfShadowMoves, PhysicalAndSpecialMovePicked,
+            ShadowEndProb, SpecialSignMoveProb);
+        ListOfShadowMoves.Add(ShadowMove);
+        ShadowListLine[8] = ShadowMove;
+
+        //to do: make the 3rd and 4th shadow moves chance depend on the level
+        if (ShadowListLine[9] != "None (0)")
+        {
+            (ShadowMove, PhysicalAndSpecialMovePicked) = PickShadowMove(0.5, PKMNStatLine, ShadowLevel, ListOfShadowMoves, PhysicalAndSpecialMovePicked,
+                ShadowEndProb + 0.25, SpecialSignMoveProb + 0.2);
+            ListOfShadowMoves.Add(ShadowMove);
+            ShadowListLine[9] = ShadowMove;
+        }
+        if (ShadowListLine[10] != "None (0)")
+        {
+            (ShadowMove, PhysicalAndSpecialMovePicked) = PickShadowMove(0.5, PKMNStatLine, ShadowLevel, ListOfShadowMoves, PhysicalAndSpecialMovePicked, 
+                ShadowEndProb + 0.3, SpecialSignMoveProb + 0.2);
+            ListOfShadowMoves.Add(ShadowMove);
+            ShadowListLine[10] = ShadowMove;
+        }
 
         string newShadowLine = string.Join(",", ShadowListLine);
 
@@ -361,7 +405,7 @@ using (SkippableStreamReader reader1 = new SkippableStreamReader(ShadowListPath)
 }
 
 NewShadowList.Close();
-ShowArrayList(NewMasterShadowList);
+//ShowArrayList(NewMasterShadowList);
 
 StreamWriter NewStoryDeckList = new StreamWriter(NewStoryDeckPath);
 //we finally create a new story deck list
@@ -387,9 +431,9 @@ using (SkippableStreamReader StoryDeckReader = new SkippableStreamReader(StoryDe
                     StoryDeckLine[0] = NewMasterShadowList.ElementAt(i)[1];
                     StoryDeckLine[1] = NewMasterShadowList.ElementAt(i)[2];
                     StoryDeckLine[19] = NewMasterShadowList.ElementAt(i)[3];
-                    StoryDeckLine[20] = NewMasterShadowList.ElementAt(i)[4];
+                    StoryDeckLine[20] = NewMasterShadowList.ElementAt(i)[6]; //the special move is in the 2nd slot
                     StoryDeckLine[21] = NewMasterShadowList.ElementAt(i)[5];
-                    StoryDeckLine[22] = NewMasterShadowList.ElementAt(i)[6];
+                    StoryDeckLine[22] = NewMasterShadowList.ElementAt(i)[4];
                     //we remove this shadow (already dealt with)
                     NewMasterShadowList.RemoveAt(i);
                     break;
@@ -407,6 +451,164 @@ NewStoryDeckList.Close();
 Console.WriteLine("Finished!");
 Console.ReadLine();
 
+(string, bool[]) PickShadowMove(double ProbOfStatus, string[] PKMNStatLine, int level, List<string> ListOfShadowMoves, bool[] PickMoveStatus,
+    double ShadowEndProb, double SpecialSignMoveProb)
+{
+rerun:;
+    //parameters
+    //parameters for the poisson distribution. They correspond to the level where the distribution has a maximum
+    int PoissonLambdaWeak = 22;
+    int PoissonLambdaMed = 32;
+    int PoissonLambdaStrong = 48;
+
+    //controls the tolerance for giving a physical or special shadow move
+    //the higher the number, the less likely a PKMN is to have a shadow move of
+    //the "opposite" stat
+    int PhysicalSpecialTolerance = 8;
+
+    //the default shadow move is Shadow Blitz
+    string ShadowMove = null;
+
+    //we check if we already have a physical or special shadow move to avoid picking another
+
+    Random rnd = new Random();
+    double StatusOrDamage;
+
+    //we force the next move to be a status if we've already picked two attacking moves
+    if (PickMoveStatus[0] == true && PickMoveStatus[1] == true)
+        StatusOrDamage = 0;
+    
+    StatusOrDamage = rnd.NextDouble();
+
+    if (StatusOrDamage >= ProbOfStatus)
+    {
+        double PoissonDistWeak = PoissonDist(PoissonLambdaWeak, level);
+        double PoissonDistMed = PoissonDist(PoissonLambdaMed, level);
+        double PoissonDistStrong = PoissonDist(PoissonLambdaStrong, level);
+
+        //we need to normalize the numbers
+        double Normalization = PoissonDistWeak + PoissonDistMed + PoissonDistStrong;
+
+        double LogOfAtkSpaRatio = Math.Log10(Double.Parse(PKMNStatLine[104]) / Double.Parse(PKMNStatLine[106]));
+
+        //this distribution makes it more likely for PKMN with higher Atk to have a
+        //physical shadow move and vice-versa
+        double PhysicalProbability = 1 / (1 + Math.Exp(-PhysicalSpecialTolerance * LogOfAtkSpaRatio));
+
+        //we now generate a series of thresholds to determine the chances of picking
+        //an attacking shadow move
+        double p1 = (double)PoissonDistWeak / Normalization;
+        double p2 = p1 + (double)PoissonDistMed / Normalization;
+
+        double rand = rnd.NextDouble();
+
+        double rand_movestrength = rnd.NextDouble();
+
+        //Console.WriteLine("Randoms # are {0}, {1}", rand.ToString("0.000"), rand_movestrength.ToString("0.000"));
+        //Console.WriteLine("Physical Probability is " + PhysicalProbability.ToString("0.000"));
+
+        if (rand <= PhysicalProbability)
+        {
+            //we take care of the physical moves
+
+            //regular moves first
+            if (!PickMoveStatus[0])
+            {
+                if (rand_movestrength <= p1)
+                    ShadowMove = "SHADOW BLITZ (356)";
+                else if (rand_movestrength > p2)
+                    ShadowMove = "SHADOW BREAK (358)";
+                else
+                    ShadowMove = "SHADOW RUSH (357)";
+
+                PickMoveStatus[0] = true;
+            }
+            else
+                ShadowMove = PickAShadowStatusMove(level);
+
+            //shadow end
+            if (rand_movestrength > p2 && rnd.NextDouble() <= ShadowEndProb)
+                ShadowMove = "SHADOW END (359)";
+            //shadow end doesn't change the status of the flag
+        }
+        else
+        {
+            //we take care of the special moves
+            //regular first
+            if (!PickMoveStatus[1])
+            {
+                if (rand_movestrength <= p1)
+                    ShadowMove = "SHADOW WAVE (360)";
+                else if (rand_movestrength > p2)
+                    ShadowMove = "SHADOW STORM (362)";
+                else
+                    ShadowMove = "SHADOW RAVE (361)";
+                PickMoveStatus[1] = true;
+            }
+            else
+                ShadowMove = PickAShadowStatusMove(level);
+
+            if (rand_movestrength > p2 && rnd.NextDouble() <= SpecialSignMoveProb)
+            {
+                //signature move special
+                double randSpecial = rnd.NextDouble();
+                double SpecialSignMoveProbThird = (double)SpecialSignMoveProb / 3;
+                //we need to check compatibility with the Beams
+                if (PKMNStatLine[35] == "TRUE" && randSpecial <= 0.33333) // ice beam
+                    ShadowMove = "SHADOW CHILL (365)";
+                else if (PKMNStatLine[57] == "TRUE" && randSpecial > 0.66666) //flamethrower
+                    ShadowMove = "SHADOW FIRE (363)";
+                else if (PKMNStatLine[46] == "TRUE") //thunderbolt
+                    ShadowMove = "SHADOW BOLT (364)";
+            }
+        }
+    }
+    else
+        ShadowMove = PickAShadowStatusMove(level);
+
+    if (ListOfShadowMoves.Contains(ShadowMove) || ShadowMove == null)
+    {
+        goto rerun;
+    }
+
+    return (ShadowMove, PickMoveStatus);
+}
+
+string PickAShadowStatusMove (int level)
+{
+    Random rnd = new Random();
+    //status moves probabilities
+    int ShadowPanicSkyLevel = 19;
+    int ShadowHalfDownLevel = 33;
+    //pick a status move
+    List<string> ListOfStatusShadowMoves = new List<string>{ "SHADOW MIST (369)",
+            "SHADOW HOLD (368)", "SHADOW SHED (372)"};
+    if (level >= ShadowPanicSkyLevel)
+    {
+        ListOfStatusShadowMoves.Add("SHADOW PANIC (370)");
+        ListOfStatusShadowMoves.Add("SHADOW SKY (367)");
+    }
+    if (level >= ShadowHalfDownLevel)
+    {
+        ListOfStatusShadowMoves.Add("SHADOW HALF (373)");
+        ListOfStatusShadowMoves.Add("SHADOW DOWN (371)");
+    }
+
+    return ListOfStatusShadowMoves.ElementAt(rnd.Next(0, ListOfStatusShadowMoves.Count - 1));
+}
+
+double PoissonDist(int lambda,int level)
+{
+    double factorial = 1;
+
+    for (int i = 1; i <= level; i++)
+    {
+        factorial *= i;
+    }
+
+    double n = ((double)Math.Pow(lambda,level) * (double)Math.Exp(-lambda))/(factorial);
+    return n;
+}
 static void ShowList(List<string> ListToShow)
 {
     foreach (string element in ListToShow)
